@@ -1,0 +1,1713 @@
+{
+  "storeName": "Tea Cup Cafe",
+  "categories": [
+    {
+      "id": "1402978",
+      "name": "Dim Sum (点心)",
+      "image": "https://app1.restolabs.com/sites/default/files/styles/royale_item_pic/public/3923750_41?itok=DyrZ_Kwo",
+      "items": [
+        {
+          "id": "1402979",
+          "name": "Beef Meatballs (牛肉球) - Dim Sum (点心)",
+          "description": "Tender beef meatballs with a savory sauce",
+          "price": 6.95,
+          "image": "https://app1.restolabs.com/sites/default/files/styles/royale_item_pic/public/3923750_41?itok=DyrZ_Kwo"
+        },
+        {
+          "id": "1402980",
+          "name": "Beef Tripe with Ginger (白灼牛柏葉) - Dim Sum (点心)",
+          "description": "Tender beef tripe with ginger, topped with sliced red and green peppers, and garnished with fresh green onions.",
+          "price": 8.95,
+          "image": "https://app1.restolabs.com/sites/default/files/styles/royale_item_pic/public/3923750_42?itok=NGZf7NWs"
+        },
+        {
+          "id": "1402981",
+          "name": "Chicken Feet (豉椒蒸鳳爪) - Dim Sum (点心)",
+          "description": "Tender chicken feet steamed with black beans and garlic, offering a savory and unique dim sum experience.",
+          "price": 6.95,
+          "image": "https://app1.restolabs.com/sites/default/files/styles/royale_item_pic/public/3923750_72?itok=zOdVzokF"
+        },
+        {
+          "id": "1402982",
+          "name": "Fried Chicken Wings (8 pcs) (炸雞翼) - Dim Sum (点心)",
+          "description": "Crispy, golden-brown fried chicken wings seasoned and fried to perfection",
+          "price": 10.95,
+          "image": "https://app1.restolabs.com/sites/default/files/styles/royale_item_pic/public/3923750_44?itok=siNOHt2d"
+        },
+        {
+          "id": "1402983",
+          "name": "Fried Squid (炸魷魚) - Dim Sum (点心)",
+          "description": "Crispy and golden-brown calamari rings garnished with thinly sliced red chili peppers.",
+          "price": 10.95,
+          "image": "https://app1.restolabs.com/sites/default/files/styles/royale_item_pic/public/3923750_29?itok=6kvmtoqm"
+        },
+        {
+          "id": "1402984",
+          "name": "Salt & Pepper Squid (椒鹽魷魚) - Dim Sum (点心)",
+          "description": "Crispy squid pieces seasoned with salt and pepper, garnished with chopped scallions and red chili slices.",
+          "price": 12.95,
+          "image": "https://app1.restolabs.com/sites/default/files/styles/royale_item_pic/public/3923750_1?itok=lYxjfTt6"
+        },
+        {
+          "id": "1402985",
+          "name": "Salt & Pepper Tofu (椒鹽豆腐) - Dim Sum (点心)",
+          "description": "Crispy tofu cubes seasoned with salt and pepper, garnished with diced bell peppers and onions.",
+          "price": 10.95,
+          "image": "https://app1.restolabs.com/sites/default/files/styles/royale_item_pic/public/Salt%20%26%20Pepper%20Tofu%20%28%E6%A4%92%E9%B9%BD%E8%B1%86%E8%85%90%29%20-%20Dim%20Sum%20%28%E7%82%B9%E5%BF%83%29.jpg?itok=ftTlG4EY"
+        },
+        {
+          "id": "1402986",
+          "name": "Spareribs in Black Bean Sauce (豉汁蒸排骨) - Dim Sum (点心)",
+          "description": "Tender pork spare ribs marinated in savory black bean sauce, garnished with minced garlic and subtle chili flakes.",
+          "price": 6.95,
+          "image": "https://app1.restolabs.com/sites/default/files/styles/royale_item_pic/public/3923750_2?itok=WdbN6GqJ"
+        },
+        {
+          "id": "1402987",
+          "name": "Xiao Long Bao (4 pcs) (小籠包) - Dim Sum (点心)",
+          "description": "Delicate steamed dumplings filled with savory broth and tender minced pork offer a burst of flavor in each bite.",
+          "price": 7.95,
+          "image": "https://app1.restolabs.com/sites/default/files/styles/royale_item_pic/public/3923750?itok=4fenFqtR"
+        },
+        {
+          "id": "1402988",
+          "name": "Su Mi (千蒸燒賣) - Dim Sum (点心)",
+          "description": "Pork and shrimp. Delicate dumplings filled with seasoned pork and shrimp and topped with a hint of roe.",
+          "price": 7.95,
+          "image": "https://app1.restolabs.com/sites/default/files/styles/royale_item_pic/public/Su%20Mi%20%28%E5%B9%B2%E8%92%B8%E7%87%92%E8%B3%A3%29%20-%20Dim%20Sum%20%28%E7%82%B9%E5%BF%83%29.png?itok=zzUnhRCI"
+        },
+        {
+          "id": "1402989",
+          "name": "Pork Dumplings (8 pcs) (水餃) - Dim Sum (点心)",
+          "description": "Delicate pork dumplings filled with savory minced pork and garnished with fresh chopped green onions.",
+          "price": 12.95,
+          "image": "https://app1.restolabs.com/sites/default/files/styles/royale_item_pic/public/Pork%20Dumplings%20%288%20pcs%29%20%28%E6%B0%B4%E9%A5%BA%29%20-%20Dim%20Sum%20%28%E7%82%B9%E5%BF%83%29.jpg?itok=oLMIiX6_"
+        },
+        {
+          "id": "1402990",
+          "name": "Deep-Fried Eggplant (釀茄子) - Dim Sum (点心)",
+          "description": "Stuffed eggplant slices, deep-fried to a golden crisp, and filled with savory ingredients.",
+          "price": 6.95,
+          "image": "https://app1.restolabs.com/sites/default/files/styles/royale_item_pic/public/Deep-Fried%20Eggplant%20%28%E9%87%80%E8%8C%84%E5%AD%90%29%20-%20Dim%20Sum%20%28%E7%82%B9%E5%BF%83%29.jpg?itok=hn8BAX1H"
+        },
+        {
+          "id": "1402991",
+          "name": "Har Gow (Shrimp Bonnet) (晶蝦餃) - Dim Sum (点心)",
+          "description": "Delicate shrimp-filled dumplings encased in translucent and pleated wrappers",
+          "price": 7.95,
+          "image": "https://app1.restolabs.com/sites/default/files/styles/royale_item_pic/public/3923750_41?itok=DyrZ_Kwo"
+        },
+        {
+          "id": "1402992",
+          "name": "Special Shanghai Xiao Long Bao (8 pcs) (特別上海小籠包) - Dim Sum (点心)",
+          "description": "Delicate soup dumplings filled with savory broth and tender minced pork, encased in a thin and pleated dough wrapper.",
+          "price": 15.9,
+          "image": "https://app1.restolabs.com/sites/default/files/styles/royale_item_pic/public/Special%20Shanghai%20Xiao%20Long%20Bao%20%288%20pcs%29%20%28%E7%89%B9%E5%88%AB%E4%B8%8A%E6%B5%B7%E5%B0%8F%E7%B1%A0%E5%8C%85%29%20-%20Dim%20Sum%20%28%E7%82%B9%E5%BF%83%29.png?itok=XaGB9lDG"
+        },
+        {
+          "id": "1402993",
+          "name": "Fried Salt Pancake (咸煎餅) - Dim Sum (点心)",
+          "description": "Golden-brown, crispy fried salt pancakes with a savory filling offer a delightful contrast of textures in every bite.",
+          "price": 6.95,
+          "image": "https://app1.restolabs.com/sites/default/files/styles/royale_item_pic/public/3923750_48?itok=3bsNOZ8T"
+        },
+        {
+          "id": "1402994",
+          "name": "Potstickers (6 pcs) (香煎鍋貼) - Dim Sum (点心)",
+          "description": "Pan-fried dumplings filled with seasoned meat and vegetables and featuring a crispy golden crust.",
+          "price": 10.95,
+          "image": "https://app1.restolabs.com/sites/default/files/styles/royale_item_pic/public/3923750_4?itok=swpMyXtb"
+        },
+        {
+          "id": "1402995",
+          "name": "Fried Buns (6 pcs) (炸饅頭) - Dim Sum (点心)",
+          "description": "Golden-brown fried buns, crispy on the outside with a soft and fluffy interior",
+          "price": 7.95,
+          "image": "https://app1.restolabs.com/sites/default/files/styles/royale_item_pic/public/3923750_49?itok=TQWSAyn-"
+        },
+        {
+          "id": "1402996",
+          "name": "Pan-Fried Chives Dumplings (煎韭菜餃) - Dim Sum (点心)",
+          "description": "Crispy, pan-fried dumplings filled with savory chives offer a delightful bite-sized treat.",
+          "price": 6.95,
+          "image": "https://app1.restolabs.com/sites/default/files/styles/royale_item_pic/public/Pan-Fried%20Chives%20Dumplings%20%28%E7%85%8E%E9%9F%AD%E8%8F%9C%E9%A4%83%29%20-%20Dim%20Sum%20%28%E7%82%B9%E5%BF%83%29.jpg?itok=C7MVf-4T"
+        },
+        {
+          "id": "1402997",
+          "name": "Sweet Egg Cream Buns (蛋黃包) - Dim Sum (点心)",
+          "description": "Soft, steamed buns filled with sweet and creamy egg custard",
+          "price": 5.95,
+          "image": "https://app1.restolabs.com/sites/default/files/styles/royale_item_pic/public/Sweet%20Egg%20Cream%20Buns%20%28%E8%9B%8B%E9%BB%84%E5%8C%85%29%20-%20Dim%20Sum%20%28%E7%82%B9%E5%BF%83%29.png?itok=lkC2lAOt"
+        },
+        {
+          "id": "1402998",
+          "name": "Steamed Tofu Skin Rolls (鮮竹卷) - Dim Sum (点心)",
+          "description": "Delicate steamed tofu skin rolls filled with a savory mixture, wrapped in tender tofu sheets, and drizzled with a light and flavorful sauce.",
+          "price": 6.95,
+          "image": "https://app1.restolabs.com/sites/default/files/styles/royale_item_pic/public/3923750_41?itok=DyrZ_Kwo"
+        },
+        {
+          "id": "1402999",
+          "name": "Sesame Balls with Salted Egg Yolk (流沙煎堆) - Dim Sum (点心)",
+          "description": "Sesame balls filled with a rich salted egg yolk paste",
+          "price": 7.95,
+          "image": "https://app1.restolabs.com/sites/default/files/styles/royale_item_pic/public/Sesame%20Balls%20with%20Salted%20Egg%20Yolk%20%28%E6%B5%81%E6%B2%99%E7%85%8E%E5%A0%86%29%20-%20Dim%20Sum%20%28%E7%82%B9%E5%BF%83%29.jpeg?itok=0HdI7c15"
+        },
+        {
+          "id": "1403000",
+          "name": "Salt & Pepper Chicken Wings (8 pcs) (椒鹽雞翼) - Dim Sum (点心)",
+          "description": "Crispy chicken wings seasoned with salt and pepper, garnished with minced garlic and green onions.",
+          "price": 12.95,
+          "image": "https://app1.restolabs.com/sites/default/files/styles/royale_item_pic/public/Salt%20%26%20Pepper%20Chicken%20Wings%20%288%20pcs%29%20%28%E6%A4%92%E9%B9%BD%E9%9B%9E%E7%BF%BC%29%20-%20Dim%20Sum%20%28%E7%82%B9%E5%BF%83%29.jpg?itok=V9CXgn3Q"
+        },
+        {
+          "id": "1403001",
+          "name": "Egg Rolls (5 pcs) (春卷) - Dim Sum (点心)",
+          "description": "Crispy egg rolls filled with seasoned vegetables and wrapped in a delicate pastry.",
+          "price": 8.95,
+          "image": "https://app1.restolabs.com/sites/default/files/styles/royale_item_pic/public/3923750_50?itok=tnedknLV"
+        },
+        {
+          "id": "1403002",
+          "name": "Chives Dumplings (韭菜餃) - Dim Sum (点心)",
+          "description": "Delicate dumplings filled with finely chopped chives, encased in a translucent and tender wrapper.",
+          "price": 7.95,
+          "image": "https://app1.restolabs.com/sites/default/files/styles/royale_item_pic/public/3923750_51?itok=OCgHe4ij"
+        },
+        {
+          "id": "1403003",
+          "name": "Steamed Buns (6 pcs) (蒸饅頭) - Dim Sum (点心)",
+          "description": "Steamed buns traditionally filled with a simple yet satisfying mixture, often enjoyed for their soft and pillowy texture.",
+          "price": 7.95,
+          "image": "https://app1.restolabs.com/sites/default/files/styles/royale_item_pic/public/3923750_5?itok=S3L8vDBJ"
+        },
+        {
+          "id": "1403004",
+          "name": "Fried Shrimp Balls (炸蝦球) - Dim Sum (点心)",
+          "description": "Crispy shrimp balls wrapped in delicate and golden pastry strips",
+          "price": 7.95,
+          "image": "https://app1.restolabs.com/sites/default/files/styles/royale_item_pic/public/3923750_41?itok=DyrZ_Kwo"
+        },
+        {
+          "id": "1403005",
+          "name": "Steamed BBQ Pork Buns (蠔油叉燒包) - Dim Sum (点心)",
+          "description": "Soft and fluffy buns filled with savory barbecue pork",
+          "price": 6.95,
+          "image": "https://app1.restolabs.com/sites/default/files/styles/royale_item_pic/public/3923750_6?itok=-dOUodQV"
+        },
+        {
+          "id": "1403006",
+          "name": "Turnip Cake (蘿卜糕) - Dim Sum (点心)",
+          "description": "Crispy and golden-brown turnip cake with a soft interior, made from shredded turnip and rice flour.",
+          "price": 6.95,
+          "image": "https://app1.restolabs.com/sites/default/files/styles/royale_item_pic/public/3923750_41?itok=DyrZ_Kwo"
+        },
+        {
+          "id": "1403007",
+          "name": "Lotus Sticky Rice (糯米雞) - Dim Sum (点心)",
+          "description": "Glutinous rice filled with chicken, typically includes mushrooms and scallions, and wrapped in a lotus leaf.",
+          "price": 6.95,
+          "image": "https://app1.restolabs.com/sites/default/files/styles/royale_item_pic/public/3923750_41?itok=DyrZ_Kwo"
+        },
+        {
+          "id": "1403008",
+          "name": "Fried Shrimp (6 pcs) (炸面包蝦) - Dim Sum (点心)",
+          "description": "Crispy, golden-brown shrimp fried to perfection and served with a tangy dipping sauce.",
+          "price": 8.95,
+          "image": "https://app1.restolabs.com/sites/default/files/styles/royale_item_pic/public/Fried%20Shrimp%20%286%20pcs%29%20%28%E7%82%B8%E9%9D%A2%E5%8C%85%E8%9D%A6%29%20-%20Dim%20Sum%20%28%E7%82%B9%E5%BF%83%29.png?itok=YRs0D5Lv"
+        },
+        {
+          "id": "1403009",
+          "name": "Honey BBQ Pork (蜜汁叉燒) - Dim Sum (点心)",
+          "description": "Tender slices of honey-glazed barbecued pork garnished with sesame seeds.",
+          "price": 10.95,
+          "image": "https://app1.restolabs.com/sites/default/files/styles/royale_item_pic/public/Honey%20BBQ%20Pork%20%28%E8%9C%9C%E6%B1%81%E5%8F%89%E7%87%92%29%20-%20Dim%20Sum%20%28%E7%82%B9%E5%BF%83%29.png?itok=wXjxNYFi"
+        },
+        {
+          "id": "1403010",
+          "name": "Chinese Broccoli with Oyster Sauce (蠔油唐芥蘭) - Dim Sum (点心)",
+          "description": "Tender Chinese broccoli drizzled with savory oyster sauce.",
+          "price": 10.95,
+          "image": "https://app1.restolabs.com/sites/default/files/styles/royale_item_pic/public/3923750_41?itok=DyrZ_Kwo"
+        },
+        {
+          "id": "1403011",
+          "name": "Foil Wrapped Chicken (6 pcs) (紙包雞) - Dim Sum (点心)",
+          "description": "Tender chicken pieces marinated and wrapped in foil and infused with savory seasonings.",
+          "price": 10.95,
+          "image": "https://app1.restolabs.com/sites/default/files/styles/royale_item_pic/public/3923750_41?itok=DyrZ_Kwo"
+        },
+        {
+          "id": "1403012",
+          "name": "Lettuce with Oyster Sauce (蠔油生菜) - Dim Sum (点心)",
+          "description": "Lettuce lightly cooked and dressed with oyster sauce, and a simple yet classic dish.",
+          "price": 10.95,
+          "image": "https://app1.restolabs.com/sites/default/files/styles/royale_item_pic/public/3923750_41?itok=DyrZ_Kwo"
+        },
+        {
+          "id": "1403013",
+          "name": "Lobster Turnover (龍蝦角) - Dim Sum (点心)",
+          "description": "Golden, crispy turnovers filled with succulent lobster and served atop a bed of shredded lettuce.",
+          "price": 7.95,
+          "image": "https://app1.restolabs.com/sites/default/files/styles/royale_item_pic/public/3923750_41?itok=DyrZ_Kwo"
+        },
+        {
+          "id": "1403014",
+          "name": "Pan-Fried Pork Buns (生煎肉包)",
+          "description": "Golden-brown buns filled with savory pork, featuring a crispy bottom and soft and fluffy top.",
+          "price": 6.95,
+          "image": "https://app1.restolabs.com/sites/default/files/styles/royale_item_pic/public/3923750_41?itok=DyrZ_Kwo"
+        },
+        {
+          "id": "1403015",
+          "name": "Pan-Fried Skin Noodles (豉油炒麵) - Dim Sum (点心)",
+          "description": "Crispy pan-fried noodles with soy sauce, bean sprouts, and green onion.",
+          "price": 13.95,
+          "image": "https://app1.restolabs.com/sites/default/files/styles/royale_item_pic/public/3923750_41?itok=DyrZ_Kwo"
+        },
+        {
+          "id": "1403016",
+          "name": "Pork Turnover (咸水角) - Dim Sum (点心)",
+          "description": "Golden, crispy turnovers filled with savory pork offer a delightful crunch with each bite.",
+          "price": 6.95,
+          "image": "https://app1.restolabs.com/sites/default/files/styles/royale_item_pic/public/3923750_41?itok=DyrZ_Kwo"
+        },
+        {
+          "id": "1403017",
+          "name": "Porridge (皮旦瘦肉粥) - Dim Sum (点心)",
+          "description": "Contains nuts. Creamy porridge typically includes oats, fresh fruits, honey, cinnamon, and nuts.",
+          "price": 8.95,
+          "image": "https://app1.restolabs.com/sites/default/files/styles/royale_item_pic/public/3923750_41?itok=DyrZ_Kwo"
+        },
+        {
+          "id": "1403018",
+          "name": "Sesame Seed Puff (煎堆) - Dim Sum (点心)",
+          "description": "Crisp pastry spheres coated in sesame seeds and featuring a slightly sweet filling.",
+          "price": 5.95,
+          "image": "https://app1.restolabs.com/sites/default/files/styles/royale_item_pic/public/3923750_41?itok=DyrZ_Kwo"
+        },
+        {
+          "id": "1403019",
+          "name": "Steamed Salted Egg Yolk Buns (3 pcs) (蒸流沙包) - Dim Sum (点心)",
+          "description": "Soft baozi filled with a rich and salted egg yolk mixture.",
+          "price": 6.95,
+          "image": "https://app1.restolabs.com/sites/default/files/styles/royale_item_pic/public/3923750_41?itok=DyrZ_Kwo"
+        },
+        {
+          "id": "1403020",
+          "name": "Steamed Sponge Cake (馬拉糕) - Dim Sum (点心)",
+          "description": "Soft and airy steamed sponge cake with a light and fluffy texture.",
+          "price": 5.95,
+          "image": "https://app1.restolabs.com/sites/default/files/styles/royale_item_pic/public/3923750_41?itok=DyrZ_Kwo"
+        },
+        {
+          "id": "1403021",
+          "name": "Stuffed Pepper (釀青椒) - Dim Sum (点心)",
+          "description": "Juicy green peppers filled with savory minced meat, topped with a rich and glossy sauce.",
+          "price": 6.95,
+          "image": "https://app1.restolabs.com/sites/default/files/styles/royale_item_pic/public/3923750_41?itok=DyrZ_Kwo"
+        }
+      ]
+    },
+    {
+      "id": "1403022",
+      "name": "Poultry (雞類 )",
+      "image": "https://app1.restolabs.com/sites/default/files/styles/royale_item_pic/public/Empress%20Chicken%20%28Half%29%20%28%E8%B2%B4%E5%A6%83%E9%BB%84%E6%AF%9B%E9%9B%9E%29_0.jpg?itok=p8VRz_zH",
+      "items": [
+        {
+          "id": "1403023",
+          "name": "Empress Chicken - Half (貴妃黃毛雞)",
+          "description": "Half a chicken, typically marinated and cooked with a blend of aromatic spices and herbs, and served with a savory sauce.",
+          "price": 18.95,
+          "image": "https://app1.restolabs.com/sites/default/files/styles/royale_item_pic/public/Empress%20Chicken%20%28Half%29%20%28%E8%B2%B4%E5%A6%83%E9%BB%84%E6%AF%9B%E9%9B%9E%29_0.jpg?itok=p8VRz_zH"
+        },
+        {
+          "id": "1403024",
+          "name": "Mongolian Chicken (蒙古雞球)",
+          "description": "Mongolian chicken typically consists of bite-sized chicken pieces, stir-fried with a blend of Mongolian sauce, onions, and bell peppers.",
+          "price": 14.95,
+          "image": "https://app1.restolabs.com/sites/default/files/styles/royale_item_pic/public/Mongolian%20Chicken%20%28%E8%92%99%E5%8F%A4%E9%9B%9E%E7%90%83%29.jpeg?itok=QMpwC9x2"
+        },
+        {
+          "id": "1403025",
+          "name": "Orange Peel Chicken (陳皮雞)",
+          "description": "Crispy chicken stir-fried with tangy orange sauce and garnished with dried orange peel.",
+          "price": 14.95,
+          "image": "https://app1.restolabs.com/sites/default/files/styles/royale_item_pic/public/3923750_7?itok=oXu3Y75V"
+        },
+        {
+          "id": "1403026",
+          "name": "General Tso's Chicken (左宗雞)",
+          "description": "Deep-fried chicken in a sweet and spicy sauce, served with steamed broccoli.",
+          "price": 14.95,
+          "image": "https://app1.restolabs.com/sites/default/files/styles/royale_item_pic/public/3923750_52?itok=EB-ubQJv"
+        },
+        {
+          "id": "1403027",
+          "name": "Kung Pao Chicken (宮保雞)",
+          "description": "Contains peanuts. Diced chicken stir-fried with peanuts, vegetables, and Sichuan peppercorns in a spicy kung pao sauce.",
+          "price": 13.95,
+          "image": "https://app1.restolabs.com/sites/default/files/styles/royale_item_pic/public/3923750_8?itok=BnKyWgUn"
+        },
+        {
+          "id": "1403028",
+          "name": "Chicken with Vegetables (時菜雞球)",
+          "description": "Chicken with seasonal vegetables typically includes bite-sized chicken pieces stir-fried with a medley of fresh and seasonal vegetables.",
+          "price": 13.95,
+          "image": "https://app1.restolabs.com/sites/default/files/styles/royale_item_pic/public/Empress%20Chicken%20%28Half%29%20%28%E8%B2%B4%E5%A6%83%E9%BB%84%E6%AF%9B%E9%9B%9E%29_0.jpg?itok=p8VRz_zH"
+        },
+        {
+          "id": "1403029",
+          "name": "Crispy Fried Chicken - Half (當紅炸子雞)",
+          "description": "Half a crispy fried chicken, marinated and breaded, typically includes a blend of spices and herbs for a savory taste. Served as a popular dish with a crispy exterior.",
+          "price": 18.95,
+          "image": "https://app1.restolabs.com/sites/default/files/styles/royale_item_pic/public/Crispy%20Fried%20Chicken%20%28Half%29%20%28%E7%95%B6%E7%B4%85%E7%82%B8%E5%AD%90%E9%9B%9E%29.png?itok=jKM-ZVWu"
+        },
+        {
+          "id": "1403030",
+          "name": "Roast Duck - Half",
+          "description": "Roasted half duck with a unique blend of seasonings and crispy skin, paired with juicy meat.",
+          "price": 18.95,
+          "image": "https://app1.restolabs.com/sites/default/files/styles/royale_item_pic/public/Roast%20Duck%20%28Half%29.png?itok=6Y0fAtbV"
+        },
+        {
+          "id": "1403031",
+          "name": "Chicken with Green Beans (豆仔雞)",
+          "description": "Chicken with green beans typically includes sautéed chicken pieces mixed with fresh green beans in a light and savory sauce.",
+          "price": 13.95,
+          "image": "https://app1.restolabs.com/sites/default/files/styles/royale_item_pic/public/Empress%20Chicken%20%28Half%29%20%28%E8%B2%B4%E5%A6%83%E9%BB%84%E6%AF%9B%E9%9B%9E%29_0.jpg?itok=p8VRz_zH"
+        },
+        {
+          "id": "1403032",
+          "name": "Cashew Nut Chicken (腰果雞)",
+          "description": "Contains cashew nuts. Tender chicken pieces stir-fried with crunchy cashew nuts, fresh zucchini, and pineapple chunks in a savory sauce.",
+          "price": 13.95,
+          "image": "https://app1.restolabs.com/sites/default/files/styles/royale_item_pic/public/3923750_53?itok=ujH6nShv"
+        },
+        {
+          "id": "1403033",
+          "name": "Chicken with Broccoli (西蘭雞)",
+          "description": "Sautéed chicken with broccoli in a savory brown sauce.",
+          "price": 13.95,
+          "image": "https://app1.restolabs.com/sites/default/files/styles/royale_item_pic/public/3923750_74?itok=8Wp6YZzm"
+        },
+        {
+          "id": "1403034",
+          "name": "Asparagus Chicken (芦筍雞)",
+          "description": "Sautéed chicken and asparagus and typically includes a light sauce to enhance the flavors.",
+          "price": 14.95,
+          "image": "https://app1.restolabs.com/sites/default/files/styles/royale_item_pic/public/Empress%20Chicken%20%28Half%29%20%28%E8%B2%B4%E5%A6%83%E9%BB%84%E6%AF%9B%E9%9B%9E%29_0.jpg?itok=p8VRz_zH"
+        },
+        {
+          "id": "1403035",
+          "name": "Sweet and Sour Chicken (甜酸雞球)",
+          "description": "Tender chicken balls coated in a crispy batter, typically include bell peppers, onions, and pineapple, all enveloped in a tangy, sweet and sour sauce.",
+          "price": 14.95,
+          "image": "https://app1.restolabs.com/sites/default/files/styles/royale_item_pic/public/3923750_9?itok=BhBT43_k"
+        },
+        {
+          "id": "1403036",
+          "name": "Curry Chicken (咖哩雞)",
+          "description": "Tender chicken pieces simmered in a robust curry sauce, which typically includes a blend of spices.",
+          "price": 13.95,
+          "image": "https://app1.restolabs.com/sites/default/files/styles/royale_item_pic/public/3923750_73?itok=_0VBMAJ-"
+        }
+      ]
+    },
+    {
+      "id": "1403091",
+      "name": "Fried Rice (炒飯類 )",
+      "image": "https://app1.restolabs.com/sites/default/files/styles/royale_item_pic/public/Seafood%20with%20XO%20Sauce%20Fried%20Rice%20%28%E6%B5%B7%E9%AE%AE%E7%82%92%E9%A3%AF%29.jpg?itok=KFYDwwct",
+      "items": [
+        {
+          "id": "1403092",
+          "name": "Seafood with XO Sauce Fried Rice (海鮮炒飯)",
+          "description": "Stir-fried rice with XO sauce typically includes egg, onion, and green onion, complemented by a medley of seafood such as shrimp, squid, and mussels.",
+          "price": 15.95,
+          "image": "https://app1.restolabs.com/sites/default/files/styles/royale_item_pic/public/Seafood%20with%20XO%20Sauce%20Fried%20Rice%20%28%E6%B5%B7%E9%AE%AE%E7%82%92%E9%A3%AF%29.jpg?itok=KFYDwwct"
+        },
+        {
+          "id": "1403093",
+          "name": "Steamed Rice (白飯)",
+          "description": "Steamed white rice, simply prepared and served",
+          "price": 2.5,
+          "image": "https://app1.restolabs.com/sites/default/files/styles/royale_item_pic/public/3923750_17?itok=PRORGowL"
+        },
+        {
+          "id": "1403094",
+          "name": "Chicken Fried Rice (雞炒飯)",
+          "description": "Stir-fried rice with chicken typically includes peas, carrots, egg, onion, and green onions.",
+          "price": 13.95,
+          "image": "https://app1.restolabs.com/sites/default/files/styles/royale_item_pic/public/3923750_63?itok=AQfTfh7G"
+        },
+        {
+          "id": "1403095",
+          "name": "House Special Fried Rice (招牌炒飯)",
+          "description": "House special fried rice typically includes a savory combination of chicken, BBQ pork, beef, shrimp, and mixed vegetables, and all stir-fried with rice.",
+          "price": 15.95,
+          "image": "https://app1.restolabs.com/sites/default/files/styles/royale_item_pic/public/3923750_64?itok=bxRHCoLG"
+        },
+        {
+          "id": "1403096",
+          "name": "BBQ Pork Fried Rice (叉燒炒飯)",
+          "description": "Savor tender BBQ pork pieces, mixed with fluffy fried rice, green peas, and diced carrots.",
+          "price": 13.95,
+          "image": "https://app1.restolabs.com/sites/default/files/styles/royale_item_pic/public/3923750_65?itok=WTeTy41n"
+        },
+        {
+          "id": "1403097",
+          "name": "Yang Chow Fried Rice (揚州炒飯)",
+          "description": "Yang chow fried rice typically includes stir-fried rice with shrimp, pork, scrambled egg, peas, carrots, and green onions.",
+          "price": 14.95,
+          "image": "https://app1.restolabs.com/sites/default/files/styles/royale_item_pic/public/3923750_18?itok=pfZOyaV8"
+        },
+        {
+          "id": "1403098",
+          "name": "Mixed Vegetable Fried Rice (什菜炒飯)",
+          "description": "Stir-fried rice with a medley of vegetables, typically includes peas, carrots, and onions.",
+          "price": 13.95,
+          "image": "https://app1.restolabs.com/sites/default/files/styles/royale_item_pic/public/3923750_19?itok=wHRwxQ50"
+        },
+        {
+          "id": "1403099",
+          "name": "Shrimp Fried Rice (蝦球炒飯)",
+          "description": "Hibachi-style fried rice with shrimp, peas, carrots, egg, onion, and green onions, and often garnished with sesame seeds.",
+          "price": 14.95,
+          "image": "https://app1.restolabs.com/sites/default/files/styles/royale_item_pic/public/3923750_20?itok=19zyNv4X"
+        },
+        {
+          "id": "1403100",
+          "name": "Fujian Fried Rice (福建炒飯)",
+          "description": "Hibachi-style fried rice cooked with a mix of seafood, peas, carrots, egg, onion, green onions, and topped with sesame seeds.",
+          "price": 15.95,
+          "image": "https://app1.restolabs.com/sites/default/files/styles/royale_item_pic/public/Seafood%20with%20XO%20Sauce%20Fried%20Rice%20%28%E6%B5%B7%E9%AE%AE%E7%82%92%E9%A3%AF%29.jpg?itok=KFYDwwct"
+        },
+        {
+          "id": "1403101",
+          "name": "Scallops and Egg White Fried Rice (瑤柱蛋白炒飯)",
+          "description": "Scallops and egg white fried rice are prepared with succulent scallops, fluffy egg whites, and rice, typically including onions and green onions.",
+          "price": 15.95,
+          "image": "https://app1.restolabs.com/sites/default/files/styles/royale_item_pic/public/3923750_21?itok=s3-A82nq"
+        },
+        {
+          "id": "1403102",
+          "name": "Chicken Fried Rice with Diced Salty Fish (咸魚雞粒炒飯)",
+          "description": "Hibachi-style fried rice prepared with diced chicken, salty fish, peas, carrots, egg, onion, and green onions.",
+          "price": 16.95,
+          "image": "https://app1.restolabs.com/sites/default/files/styles/royale_item_pic/public/Seafood%20with%20XO%20Sauce%20Fried%20Rice%20%28%E6%B5%B7%E9%AE%AE%E7%82%92%E9%A3%AF%29.jpg?itok=KFYDwwct"
+        }
+      ]
+    },
+    {
+      "id": "1403103",
+      "name": "Chow Fun - Fried Noodles (炒粉麵類)",
+      "image": "https://app1.restolabs.com/sites/default/files/styles/royale_item_pic/public/3923750_22?itok=inKgf2ul",
+      "items": [
+        {
+          "id": "1403104",
+          "name": "Seafood Pan-Fried Noodles (海鮮煎麵)",
+          "description": "Tender shrimp, squid, and fish fillets with crisp vegetables atop golden noodles",
+          "price": 15.95,
+          "image": "https://app1.restolabs.com/sites/default/files/styles/royale_item_pic/public/3923750_22?itok=inKgf2ul"
+        },
+        {
+          "id": "1403105",
+          "name": "Shrimp Pan-Fried Noodles (蝦球煎麵)",
+          "description": "Pan-fried noodles served with shrimp and a variety of vegetables",
+          "price": 15.95,
+          "image": "https://app1.restolabs.com/sites/default/files/styles/royale_item_pic/public/3923750_24?itok=_1mh3xFu"
+        },
+        {
+          "id": "1403106",
+          "name": "Singapore Style Fried Rice Noodles (星州炒米粉)",
+          "description": "Thin rice noodles stir-fried with curry spices, shrimp, pork, and vegetables",
+          "price": 14.95,
+          "image": "https://app1.restolabs.com/sites/default/files/styles/royale_item_pic/public/3923750_25?itok=l_BG2xBQ"
+        },
+        {
+          "id": "1403107",
+          "name": "Stir-Fried E-Fu Noodles (干燒伊麵)",
+          "description": "E-fu noodles stir-fried with a blend of sauces and seasonings typically include vegetables and sometimes meat or seafood.",
+          "price": 13.95,
+          "image": "https://app1.restolabs.com/sites/default/files/styles/royale_item_pic/public/3923750_26?itok=_dHOIizw"
+        },
+        {
+          "id": "1403108",
+          "name": "Thailand Style Rice Noodles (泰式炒米粉)",
+          "description": "Contains peanuts. Stir-fried rice noodles with traditional Thai flavors, often including egg, bean sprouts, peanuts, and a mix of vegetables in a tangy sauce.",
+          "price": 14.95,
+          "image": "https://app1.restolabs.com/sites/default/files/styles/royale_item_pic/public/3923750_27?itok=lqEJeqWq"
+        },
+        {
+          "id": "1403109",
+          "name": "Chicken Chow Mein (雞麵)",
+          "description": "Stir-fried noodles with chicken",
+          "price": 13.95,
+          "image": "https://app1.restolabs.com/sites/default/files/styles/royale_item_pic/public/Chicken%20Chow%20Mein%20%28%E9%B8%A1%E9%BA%B5%29.png?itok=lQirPHFE"
+        },
+        {
+          "id": "1403110",
+          "name": "Shrimp Chow Mein (蝦炒麵)",
+          "description": "Stir-fried noodles with shrimp typically include a mix of vegetables such as cabbage, carrots, and onions, seasoned with soy sauce and other spices.",
+          "price": 14.95,
+          "image": "https://app1.restolabs.com/sites/default/files/styles/royale_item_pic/public/3923750_22?itok=inKgf2ul"
+        },
+        {
+          "id": "1403111",
+          "name": "Soy Sauce Chow Mein (豉油皇炒麵)",
+          "description": "Stir-fried noodles prominently featuring a rich soy sauce typically include vegetables and a savory sauce.",
+          "price": 13.95,
+          "image": "https://app1.restolabs.com/sites/default/files/styles/royale_item_pic/public/3923750_28?itok=8PvxIdzz"
+        },
+        {
+          "id": "1403112",
+          "name": "BBQ Pork Chow Mein (叉燒炒麵)",
+          "description": "Stir-fried noodles with slices of Hong Kong-style barbecued pork typically include vegetables and a savory sauce unique to the establishment.",
+          "price": 13.95,
+          "image": "https://app1.restolabs.com/sites/default/files/styles/royale_item_pic/public/3923750_66?itok=MaTva4BG"
+        },
+        {
+          "id": "1403113",
+          "name": "House Special Chow Fun (招牌炒河)",
+          "description": "Wide rice noodles stir-fried with tender chicken, fresh bean sprouts, green onions, and savory sauce.",
+          "price": 15.95,
+          "image": "https://app1.restolabs.com/sites/default/files/styles/royale_item_pic/public/3923750_22?itok=inKgf2ul"
+        },
+        {
+          "id": "1403114",
+          "name": "House Special Chow Mein (招牌炒麵)",
+          "description": "Stir-fried noodles with a mix of select meats and vegetables, and typically include a house special sauce.",
+          "price": 14.95,
+          "image": "https://app1.restolabs.com/sites/default/files/styles/royale_item_pic/public/3923750_67?itok=ocGlLCTH"
+        },
+        {
+          "id": "1403115",
+          "name": "Beef Chow Fun with Bean Sprout (干炒牛河)",
+          "description": "Stir-fried wide rice noodles with beef and bean sprouts, commonly seasoned with savory sauce for flavor enhancement.",
+          "price": 14.95,
+          "image": "https://app1.restolabs.com/sites/default/files/styles/royale_item_pic/public/3923750_22?itok=inKgf2ul"
+        },
+        {
+          "id": "1403116",
+          "name": "House Special Pan-Fried Noodles (招牌煎麵)",
+          "description": "Crispy noodles topped with a savory mix of meats and vegetables embody the essence of traditional pan-frying techniques.",
+          "price": 15.95,
+          "image": "https://app1.restolabs.com/sites/default/files/styles/royale_item_pic/public/3923750_68?itok=HuX_I7gc"
+        },
+        {
+          "id": "1403117",
+          "name": "Pan-Fried Noodles with Beef and Vegetables (菜遠牛肉煎麵)",
+          "description": "Pan-fried noodles cooked with slices of beef and a medley of vegetables, typically including onions and carrots.",
+          "price": 15.95,
+          "image": "https://app1.restolabs.com/sites/default/files/styles/royale_item_pic/public/3923750_22?itok=inKgf2ul"
+        },
+        {
+          "id": "1403118",
+          "name": "Singapore Style Chow Fun (星州炒河)",
+          "description": "Stir-fried wide rice noodles with a blend of curry spices typically include shrimp, chicken, and pork.",
+          "price": 14.95,
+          "image": "https://app1.restolabs.com/sites/default/files/styles/royale_item_pic/public/3923750_22?itok=inKgf2ul"
+        },
+        {
+          "id": "1403119",
+          "name": "Beef Chow Mein (牛肉炒麵)",
+          "description": "Stir-fried noodles with slices of beef typically include vegetables such as onions and cabbage, seasoned with soy sauce and other spices.",
+          "price": 13.95,
+          "image": "https://app1.restolabs.com/sites/default/files/styles/royale_item_pic/public/3923750_69?itok=vaTTXCho"
+        },
+        {
+          "id": "1403120",
+          "name": "Beef Brisket and Vegetables Chow Fun (菜心牛腩炒河)",
+          "description": "Wide rice noodles stir-fried with tender beef brisket and fresh vegetables.",
+          "price": 17.95,
+          "image": "https://app1.restolabs.com/sites/default/files/styles/royale_item_pic/public/3923750_22?itok=inKgf2ul"
+        },
+        {
+          "id": "1403121",
+          "name": "Beef Chow Fun with Black Bean Sauce (豉椒牛河)",
+          "description": "Beef chow fun with black bean sauce is a stir-fried dish combining wide rice noodles with savory black bean sauce.",
+          "price": 14.95,
+          "image": "https://app1.restolabs.com/sites/default/files/styles/royale_item_pic/public/3923750_22?itok=inKgf2ul"
+        },
+        {
+          "id": "1403122",
+          "name": "Seafood Chow Fun (海鮮炒河)",
+          "description": "Stir-fried wide rice noodles with a mix of seafood, typically including shrimp, squid, and vegetables, seasoned with soy and oyster sauce.",
+          "price": 15.95,
+          "image": "https://app1.restolabs.com/sites/default/files/styles/royale_item_pic/public/3923750_22?itok=inKgf2ul"
+        },
+        {
+          "id": "1403123",
+          "name": "Tomato Beef Pan-Fried Noodles (蕃茄牛煎麵)",
+          "description": "Pan-fried noodles topped with a savory tomato-based sauce, tender slices of beef, and typically include onions and bell peppers.",
+          "price": 15.95,
+          "image": "https://app1.restolabs.com/sites/default/files/styles/royale_item_pic/public/3923750_22?itok=inKgf2ul"
+        }
+      ]
+    },
+    {
+      "id": "1403053",
+      "name": "Pork and Beef (猪牛类)",
+      "image": "https://app1.restolabs.com/sites/default/files/styles/royale_item_pic/public/Beef%20with%20Asparagus%20%28%E8%8A%A6%E7%AC%8B%E7%89%9B%29.jpg?itok=kk3x6-OH",
+      "items": [
+        {
+          "id": "1403054",
+          "name": "Beef with Asparagus (芦笋牛)",
+          "description": "Sautéed beef with asparagus in a light brown sauce",
+          "price": 15.95,
+          "image": "https://app1.restolabs.com/sites/default/files/styles/royale_item_pic/public/Beef%20with%20Asparagus%20%28%E8%8A%A6%E7%AC%8B%E7%89%9B%29.jpg?itok=kk3x6-OH"
+        },
+        {
+          "id": "1403055",
+          "name": "Beef with Ginger and Green Onion (姜葱牛)",
+          "description": "Stir-fried beef with ginger and green onions in a savory sauce",
+          "price": 15.95,
+          "image": "https://app1.restolabs.com/sites/default/files/styles/royale_item_pic/public/3923750_56?itok=cDMGfIQA"
+        },
+        {
+          "id": "1403056",
+          "name": "Beef with Broccoli (西兰牛)",
+          "description": "Sautéed beef with Chinese broccoli in a savory brown sauce",
+          "price": 14.95,
+          "image": "https://app1.restolabs.com/sites/default/files/styles/royale_item_pic/public/Beef%20with%20Broccoli%20%28%E8%A5%BF%E5%85%B0%E7%89%9B%29.jpg?itok=MOgK358W"
+        },
+        {
+          "id": "1403057",
+          "name": "Beef with Chinese Broccoli (中式芥兰牛)",
+          "description": "Stir-fried beef with Chinese broccoli in a savory sauce and typically including garlic",
+          "price": 14.95,
+          "image": "https://app1.restolabs.com/sites/default/files/styles/royale_item_pic/public/Beef%20with%20Chinese%20Broccoli%20%28%E4%B8%AD%E5%BC%8F%E8%8A%A5%E5%85%B0%E7%89%9B%29.jpeg?itok=sQLTG4Aw"
+        },
+        {
+          "id": "1403058",
+          "name": "Spareribs with Spicy Salt (椒盐骨)",
+          "description": "Hot and spicy pork spareribs seasoned with spicy salt",
+          "price": 14.95,
+          "image": "https://app1.restolabs.com/sites/default/files/styles/royale_item_pic/public/3923750_10?itok=jwA8ES9n"
+        },
+        {
+          "id": "1403059",
+          "name": "Sweet and Sour Pork (甜酸肉)",
+          "description": "Battered pork with vegetables, tossed in a classic sweet and sour sauce",
+          "price": 13.95,
+          "image": "https://app1.restolabs.com/sites/default/files/styles/royale_item_pic/public/Sweet%20and%20Sour%20Pork%20%28%E7%94%9C%E9%85%B8%E8%82%89%29.jpg?itok=H9HP-r60"
+        },
+        {
+          "id": "1403060",
+          "name": "Mongolian Beef (蒙古牛)",
+          "description": "Hot and spicy Mongolian-style beef",
+          "price": 15.95,
+          "image": "https://app1.restolabs.com/sites/default/files/styles/royale_item_pic/public/Beef%20with%20Asparagus%20%28%E8%8A%A6%E7%AC%8B%E7%89%9B%29.jpg?itok=kk3x6-OH"
+        },
+        {
+          "id": "1403061",
+          "name": "Beef with Green Beans (四季豆牛)",
+          "description": "Stir-fried beef with green beans in a savory sauce typically includes garlic and soy sauce",
+          "price": 14.95,
+          "image": "https://app1.restolabs.com/sites/default/files/styles/royale_item_pic/public/3923750_57?itok=J_MuFAZT"
+        },
+        {
+          "id": "1403062",
+          "name": "Peking Spareribs (京都骨)",
+          "description": "Tender, marinated spare ribs coated in a savory, slightly sweet glaze, featuring a rich flavor",
+          "price": 14.95,
+          "image": "https://app1.restolabs.com/sites/default/files/styles/royale_item_pic/public/3923750_11?itok=nmXkA762"
+        },
+        {
+          "id": "1403063",
+          "name": "BBQ Pork with Mixed Vegetables (杂菜叉烧)",
+          "description": "Barbecued pork paired with a medley of mixed vegetables and typically including asparagus",
+          "price": 14.95,
+          "image": "https://app1.restolabs.com/sites/default/files/styles/royale_item_pic/public/3923750_58?itok=V1gff1cb"
+        },
+        {
+          "id": "1403064",
+          "name": "Beef with Tender Green (菜远牛)",
+          "description": "Beef with tender green typically consists of beef stir-fried with tender green vegetables",
+          "price": 14.95,
+          "image": "https://app1.restolabs.com/sites/default/files/styles/royale_item_pic/public/3923750_59?itok=b7qIUneN"
+        },
+        {
+          "id": "1403065",
+          "name": "Szechuan Pork (四川肉)",
+          "description": "Hot and spicy Szechuan-style pork",
+          "price": 13.95,
+          "image": "https://app1.restolabs.com/sites/default/files/styles/royale_item_pic/public/3923750_3?itok=E7l9QObq"
+        },
+        {
+          "id": "1403066",
+          "name": "Kung Pao Beef (宫保牛)",
+          "description": "Hot and spicy Kung Pao-style beef",
+          "price": 14.95,
+          "image": "https://app1.restolabs.com/sites/default/files/styles/royale_item_pic/public/Beef%20with%20Asparagus%20%28%E8%8A%A6%E7%AC%8B%E7%89%9B%29.jpg?itok=kk3x6-OH"
+        },
+        {
+          "id": "1403067",
+          "name": "Hunan Beef (湖南牛)",
+          "description": "Hot and spicy Hunan-style beef",
+          "price": 15.95,
+          "image": "https://app1.restolabs.com/sites/default/files/styles/royale_item_pic/public/Beef%20with%20Asparagus%20%28%E8%8A%A6%E7%AC%8B%E7%89%9B%29.jpg?itok=kk3x6-OH"
+        }
+      ]
+    },
+    {
+      "id": "1403124",
+      "name": "Combination Dinners",
+      "image": "/images/menu-fallback.svg",
+      "items": [
+        {
+          "id": "1403125",
+          "name": "Combo A",
+          "description": "Contains walnuts. Orange chicken and honey walnut shrimp.",
+          "price": 16.95,
+          "image": "/images/menu-fallback.svg"
+        },
+        {
+          "id": "1403126",
+          "name": "Combo B",
+          "description": "Contains walnuts. General Tso's chicken (hot and spicy) and honey walnut shrimp.",
+          "price": 16.95,
+          "image": "/images/menu-fallback.svg"
+        }
+      ]
+    },
+    {
+      "id": "1402957",
+      "name": " Appetizers (頭檯 ) ",
+      "image": "https://app1.restolabs.com/sites/default/files/styles/royale_item_pic/public/BBQ%20Pork%20%28%E8%9C%9C%E6%B1%81%E5%8F%89%E7%87%92%29.png?itok=9IIS4a3w",
+      "items": [
+        {
+          "id": "1402958",
+          "name": "BBQ Pork (蜜汁叉烧)",
+          "description": "Tender slices of barbecued pork glazed with a sweet sauce, garnished with sesame seeds, and served on a bed of shredded cabbage.",
+          "price": 12.95,
+          "image": "https://app1.restolabs.com/sites/default/files/styles/royale_item_pic/public/BBQ%20Pork%20%28%E8%9C%9C%E6%B1%81%E5%8F%89%E7%87%92%29.png?itok=9IIS4a3w"
+        },
+        {
+          "id": "1402959",
+          "name": "Egg Rolls (5 pcs) (春卷)",
+          "description": "Crispy rolls filled with seasoned vegetables and wrapped in a light and golden pastry.",
+          "price": 9.95,
+          "image": "https://app1.restolabs.com/sites/default/files/styles/royale_item_pic/public/Egg%20Rolls%20%285%20pcs%29%20%28%E6%98%A5%E5%8D%B7%29.jpg?itok=vmqFNCye"
+        },
+        {
+          "id": "1402960",
+          "name": "Fried Squid (炸尤鱼)",
+          "description": "Crispy fried squid rings garnished with sliced red peppers.",
+          "price": 10.95,
+          "image": "https://app1.restolabs.com/sites/default/files/styles/royale_item_pic/public/3923750_33?itok=HR6gkFZr"
+        },
+        {
+          "id": "1402961",
+          "name": "Potstickers (6 pcs) (锅贴)",
+          "description": "Pan-fried dumplings filled with seasoned meat and vegetables and served with a crispy golden exterior.",
+          "price": 12.95,
+          "image": "https://app1.restolabs.com/sites/default/files/styles/royale_item_pic/public/Potstickers%20%286%20pcs%29%20%28%E9%94%85%E8%B4%B4%29.jpg?itok=ln2abxrG"
+        },
+        {
+          "id": "1402962",
+          "name": "Fried Cheese Wontons (6 pcs) (芝士云吞)",
+          "description": "Crispy wontons filled with melted cheese offer a delightful blend of crunchy and creamy textures.",
+          "price": 9.95,
+          "image": "https://app1.restolabs.com/sites/default/files/styles/royale_item_pic/public/Fried%20Cheese%20Wontons%20%286%20pcs%29%20%28%E8%8A%9D%E5%A3%AB%E4%BA%91%E5%90%9E%29.jpg?itok=ZHnR9jBJ"
+        },
+        {
+          "id": "1402963",
+          "name": "Chicken Wings with Spicy Salt (8 pcs) (椒盐鸡翅)",
+          "description": "Hot and spicy chicken wings.",
+          "price": 12.95,
+          "image": "https://app1.restolabs.com/sites/default/files/styles/royale_item_pic/public/3923750_70?itok=oGD0TmWK"
+        },
+        {
+          "id": "1402964",
+          "name": "Fried Wontons (炸云吞皮)",
+          "description": "Crispy wontons, deep-fried and typically filled with a mixture of minced meat and vegetables.",
+          "price": 6.95,
+          "image": "https://app1.restolabs.com/sites/default/files/styles/royale_item_pic/public/3923750_35?itok=6ofA8Ojc"
+        },
+        {
+          "id": "1402965",
+          "name": "Combination Appetizers (头台拼盘)",
+          "description": "Egg roll, paper-wrapped chicken, cheese wonton, and fried shrimp.",
+          "price": 12.95,
+          "image": "https://app1.restolabs.com/sites/default/files/styles/royale_item_pic/public/3923750_36?itok=gmUGQ24i"
+        },
+        {
+          "id": "1402966",
+          "name": "French Fries (炸薯条)",
+          "description": "Golden and crispy potato fries served with a side of ketchup.",
+          "price": 6.95,
+          "image": "https://app1.restolabs.com/sites/default/files/styles/royale_item_pic/public/3923750_38?itok=fnfEjrOF"
+        },
+        {
+          "id": "1402967",
+          "name": "Fried Shrimp (6 pcs) (炸虾)",
+          "description": "Crispy, golden-brown shrimp coated in a light batter and fried to perfection.",
+          "price": 10.95,
+          "image": "https://app1.restolabs.com/sites/default/files/styles/royale_item_pic/public/3923750_39?itok=PmGZlt6l"
+        },
+        {
+          "id": "1402968",
+          "name": "Foil Wrapped Chicken (6 pcs) (铝包鸡)",
+          "description": "Tender chicken pieces marinated and wrapped in foil, locking in savory flavors.",
+          "price": 12.95,
+          "image": "https://app1.restolabs.com/sites/default/files/styles/royale_item_pic/public/BBQ%20Pork%20%28%E8%9C%9C%E6%B1%81%E5%8F%89%E7%87%92%29.png?itok=9IIS4a3w"
+        }
+      ]
+    },
+    {
+      "id": "1402969",
+      "name": "Soups (湯類 )",
+      "image": "https://app1.restolabs.com/sites/default/files/styles/royale_item_pic/public/3923750_40?itok=_1lv6MT5",
+      "items": [
+        {
+          "id": "1402970",
+          "name": "Crab Meat Fish Maw Soup (蟹肉鱼肚羹)",
+          "description": "Crab meat and fish maw served in a thick, savory broth, traditionally garnished with scallions and cilantro.",
+          "price": 16.95,
+          "image": "https://app1.restolabs.com/sites/default/files/styles/royale_item_pic/public/3923750_40?itok=_1lv6MT5"
+        },
+        {
+          "id": "1402971",
+          "name": "Hot and Sour Soup (酸辣汤)",
+          "description": "Hot and spicy soup.",
+          "price": 10.95,
+          "image": "https://app1.restolabs.com/sites/default/files/styles/royale_item_pic/public/Hot%20and%20Sour%20Soup%20%28%E9%85%B8%E8%BE%A3%E6%B1%A4%29.jpg?itok=HxkobS3Z"
+        },
+        {
+          "id": "1402972",
+          "name": "Seafood Sizzling Rice Soup (海鲜锅巴汤)",
+          "description": "Crispy rice served in a light broth with a medley of seafood, typically including shrimp and squid.",
+          "price": 13.95,
+          "image": "https://app1.restolabs.com/sites/default/files/styles/royale_item_pic/public/Seafood%20Sizzling%20Rice%20Soup%20%28%E6%B5%B7%E9%AE%AE%E9%8D%8B%E5%B7%B4%E6%B9%AF%29.jpeg?itok=eOIkkl-e"
+        },
+        {
+          "id": "1402973",
+          "name": "Wonton Soup (云吞汤)",
+          "description": "Wonton soup typically features a seasoned broth with delicately filled wontons, commonly containing a mixture of minced pork and shrimp.",
+          "price": 12.95,
+          "image": "https://app1.restolabs.com/sites/default/files/styles/royale_item_pic/public/3923750_0?itok=M6bmWVfV"
+        },
+        {
+          "id": "1402974",
+          "name": "Wor Wonton Soup (雾云吞汤)",
+          "description": "Wor wonton soup typically includes a seasoned broth filled with wontons, BBQ pork, fish balls, fish cake, chicken, shrimp, and mixed vegetables.",
+          "price": 15.95,
+          "image": "https://app1.restolabs.com/sites/default/files/styles/royale_item_pic/public/Wor%20Wonton%20Soup%20%28%E7%AA%9D%E4%BA%91%E5%90%9E%E6%B1%A4%29.png?itok=ZANNd4A5"
+        },
+        {
+          "id": "1402975",
+          "name": "Egg Flower Soup (蛋花汤)",
+          "description": "Egg flower soup typically includes green onions and tofu in a seasoned chicken broth.",
+          "price": 12.95,
+          "image": "https://app1.restolabs.com/sites/default/files/styles/royale_item_pic/public/3923750_40?itok=_1lv6MT5"
+        },
+        {
+          "id": "1402976",
+          "name": "Minced Chicken Corn Soup (鸡茸粟米汤)",
+          "description": "Minced chicken and sweet corn in a comforting broth, and typically includes a blend of light seasonings.",
+          "price": 12.95,
+          "image": "https://app1.restolabs.com/sites/default/files/styles/royale_item_pic/public/Minced%20Chicken%20Corn%20Soup%20%28%E9%9B%9E%E8%8C%B8%E7%B2%9F%E7%B1%B3%E6%B9%AF%29.jpg?itok=gKPDyEUV"
+        },
+        {
+          "id": "1402977",
+          "name": "West Lake Beef Soup (西湖牛肉羹)",
+          "description": "Thinly sliced beef and coriander in a clear, savory broth, inspired by the traditional flavors of West Lake and China.",
+          "price": 13.95,
+          "image": "https://app1.restolabs.com/sites/default/files/styles/royale_item_pic/public/3923750_40?itok=_1lv6MT5"
+        }
+      ]
+    },
+    {
+      "id": "1403068",
+      "name": " Vegetables (素類 ) ",
+      "image": "https://app1.restolabs.com/sites/default/files/styles/royale_item_pic/public/Vegetables%20with%20Garlic%20Sauce%20%28%E8%92%9C%E8%8C%B8%E6%99%82%E8%8F%9C%29.png?itok=FJQi7vUH",
+      "items": [
+        {
+          "id": "1403069",
+          "name": "Family Style Tofu (家常豆腐)",
+          "description": "Crispy tofu with broccoli, green beans, bell peppers, mushrooms, and dried red chili",
+          "price": 14.95,
+          "image": "https://app1.restolabs.com/sites/default/files/styles/royale_item_pic/public/Vegetables%20with%20Garlic%20Sauce%20%28%E8%92%9C%E8%8C%B8%E6%99%82%E8%8F%9C%29.png?itok=FJQi7vUH"
+        },
+        {
+          "id": "1403070",
+          "name": "Vegetables with Garlic Sauce (蒜茸时菜)",
+          "description": "Stir-fried eggplant with garlic sauce, featuring tender chunks of eggplant, sliced bamboo shoots, and wood ear fungus",
+          "price": 14.95,
+          "image": "https://app1.restolabs.com/sites/default/files/styles/royale_item_pic/public/Vegetables%20with%20Garlic%20Sauce%20%28%E8%92%9C%E8%8C%B8%E6%99%82%E8%8F%9C%29.png?itok=FJQi7vUH"
+        },
+        {
+          "id": "1403071",
+          "name": "Black Mushrooms with Chinese Greens (北菇扒菜胆)",
+          "description": "Black mushrooms atop a bed of Chinese greens typically include garlic and a light sauce",
+          "price": 14.95,
+          "image": "https://app1.restolabs.com/sites/default/files/styles/royale_item_pic/public/Vegetables%20with%20Garlic%20Sauce%20%28%E8%92%9C%E8%8C%B8%E6%99%82%E8%8F%9C%29.png?itok=FJQi7vUH"
+        },
+        {
+          "id": "1403072",
+          "name": "Braised Tofu (红烧豆腐)",
+          "description": "Tender tofu braised in a savory sauce, accompanied by sautéed bok choy and garnished with scallions",
+          "price": 14.95,
+          "image": "https://app1.restolabs.com/sites/default/files/styles/royale_item_pic/public/Vegetables%20with%20Garlic%20Sauce%20%28%E8%92%9C%E8%8C%B8%E6%99%82%E8%8F%9C%29.png?itok=FJQi7vUH"
+        },
+        {
+          "id": "1403073",
+          "name": "Chinese Broccoli with Oyster Sauce (蚝油芥兰)",
+          "description": "Chinese broccoli is lightly sautéed and then drizzled with a savory oyster sauce",
+          "price": 14.95,
+          "image": "https://app1.restolabs.com/sites/default/files/styles/royale_item_pic/public/Vegetables%20with%20Garlic%20Sauce%20%28%E8%92%9C%E8%8C%B8%E6%99%82%E8%8F%9C%29.png?itok=FJQi7vUH"
+        },
+        {
+          "id": "1403074",
+          "name": "Ma Po Tofu (麻婆豆腐)",
+          "description": "Soft tofu in a spicy Szechuan sauce typically includes ground pork and Szechuan peppercorns",
+          "price": 14.95,
+          "image": "https://app1.restolabs.com/sites/default/files/styles/royale_item_pic/public/Ma%20Po%20Tofu%20%28%E9%BA%BB%E5%A9%86%E8%B1%86%E8%85%90%29.jpg?itok=lZo1Wys0"
+        }
+      ]
+    },
+    {
+      "id": "1403127",
+      "name": " Lunch Specials (午餐特价) (11:00-14:00) ",
+      "image": "https://app1.restolabs.com/sites/default/files/styles/royale_item_pic/public/Beef%20with%20Broccoli%20%28%E8%A5%BF%E5%85%B0%E7%89%9B%29%20-%20Lunch%20Specials%20%28%E5%8D%88%E9%A4%90%E7%89%B9%E4%BB%B7%29.png?itok=tNfmLYUN",
+      "items": [
+        {
+          "id": "1403128",
+          "name": "Beef with Broccoli (西兰牛) - Lunch Specials (午餐特价)",
+          "description": "Tender beef slices stir-fried with fresh broccoli in a savory sauce.",
+          "price": 14.95,
+          "image": "https://app1.restolabs.com/sites/default/files/styles/royale_item_pic/public/Beef%20with%20Broccoli%20%28%E8%A5%BF%E5%85%B0%E7%89%9B%29%20-%20Lunch%20Specials%20%28%E5%8D%88%E9%A4%90%E7%89%B9%E4%BB%B7%29.png?itok=tNfmLYUN"
+        },
+        {
+          "id": "1403129",
+          "name": "Cashew Chicken (腰果鸡) - Lunch Specials (午餐特价)",
+          "description": "Sautéed chicken and cashews typically include vegetables like bell peppers and onions, served in a light sauce.",
+          "price": 13.95,
+          "image": "https://app1.restolabs.com/sites/default/files/styles/royale_item_pic/public/Cashew%20Chicken%20%28%E8%85%B0%E6%9E%9C%E9%B8%A1%29%20-%20Lunch%20Specials%20%28%E5%8D%88%E9%A4%90%E7%89%B9%E4%BB%B7%29.png?itok=9qISvwYw"
+        },
+        {
+          "id": "1403130",
+          "name": "Chicken with Black Bean Sauce (豉汁鸡) - Lunch Specials (午餐特价)",
+          "description": "Tender chicken strips stir-fried with black bean sauce, bell peppers, onions, and carrots.",
+          "price": 13.95,
+          "image": "https://app1.restolabs.com/sites/default/files/styles/royale_item_pic/public/Chicken%20with%20Black%20Bean%20Sauce%20%28%E8%B1%89%E6%B1%81%E9%B8%A1%29%20-%20Lunch%20Specials%20%28%E5%8D%88%E9%A4%90%E7%89%B9%E4%BB%B7%29.png?itok=xJ_I5r68"
+        },
+        {
+          "id": "1403131",
+          "name": "Chicken with Mushrooms (蘑菇鸡) - Lunch Specials (午餐特价)",
+          "description": "Sautéed chicken and mushrooms, typically accompanied by a light sauce.",
+          "price": 13.95,
+          "image": "https://app1.restolabs.com/sites/default/files/styles/royale_item_pic/public/Chicken%20with%20Mushrooms%20%28%E8%98%91%E8%8F%87%E9%B8%A1%29%20-%20Lunch%20Specials%20%28%E5%8D%88%E9%A4%90%E7%89%B9%E4%BB%B7%29.png?itok=gah6aL9l"
+        },
+        {
+          "id": "1403132",
+          "name": "General Tso's Chicken (左鸡) - Lunch Specials (午餐特价)",
+          "description": "Deep-fried chicken coated in a slightly spicy and sweet sauce.",
+          "price": 13.95,
+          "image": "https://app1.restolabs.com/sites/default/files/styles/royale_item_pic/public/General%20Tso%27s%20Chicken%20%28%E5%B7%A6%E9%B8%A1%29%20-%20Lunch%20Specials%20%28%E5%8D%88%E9%A4%90%E7%89%B9%E4%BB%B7%29.png?itok=rUW9azx-"
+        },
+        {
+          "id": "1403133",
+          "name": "House Special Beef (本楼特别牛) - Lunch Specials (午餐特价)",
+          "description": "House special beef typically includes tender slices of beef stir-fried with a selection of vegetables in a savory sauce.",
+          "price": 14.95,
+          "image": "https://app1.restolabs.com/sites/default/files/styles/royale_item_pic/public/House%20Special%20Beef%20%28%E6%9C%AC%E6%A5%BC%E7%89%B9%E5%88%AB%E7%89%9B%29%20-%20Lunch%20Specials%20%28%E5%8D%88%E9%A4%90%E7%89%B9%E4%BB%B7%29.png?itok=jwyn4AkQ"
+        },
+        {
+          "id": "1403134",
+          "name": "Kung Pao Chicken (宫保鸡) - Lunch Specials (午餐特价)",
+          "description": "Contains peanuts. Diced chicken stir-fried with peanuts, chili peppers, and vegetables in a spicy Sichuan sauce.",
+          "price": 13.95,
+          "image": "https://app1.restolabs.com/sites/default/files/styles/royale_item_pic/public/Kung%20Pao%20Chicken%20%28%E5%AE%AB%E4%BF%9D%E9%B8%A1%29%20-%20Lunch%20Specials%20%28%E5%8D%88%E9%A4%90%E7%89%B9%E4%BB%B7%29.png?itok=cbZwGF93"
+        },
+        {
+          "id": "1403135",
+          "name": "Kung Pao Shrimp (宫保虾) - Lunch Specials (午餐特价)",
+          "description": "Contains peanuts. Stir-fried shrimp with peanuts and mixed vegetables in a spicy Sichuan sauce.",
+          "price": 14.95,
+          "image": "https://app1.restolabs.com/sites/default/files/styles/royale_item_pic/public/Kung%20Pao%20Shrimp%20%28%E5%AE%AB%E4%BF%9D%E8%99%BE%29%20-%20Lunch%20Specials%20%28%E5%8D%88%E9%A4%90%E7%89%B9%E4%BB%B7%29.png?itok=sddM2I3B"
+        },
+        {
+          "id": "1403136",
+          "name": "Mixed Vegetables (杂菜) - Lunch Specials (午餐特价)",
+          "description": "Assorted vegetables, carefully selected and stir-fried, offer a harmonious blend of flavors and textures.",
+          "price": 13.95,
+          "image": "https://app1.restolabs.com/sites/default/files/styles/royale_item_pic/public/Mixed%20Vegetables%20%28%E6%9D%82%E8%8F%9C%29%20-%20Lunch%20Specials%20%28%E5%8D%88%E9%A4%90%E7%89%B9%E4%BB%B7%29.png?itok=g__M57pT"
+        },
+        {
+          "id": "1403137",
+          "name": "Shrimp with Broccoli (芥兰虾) - Lunch Specials (午餐特价)",
+          "description": "Shrimp stir-fried with broccoli, typically seasoned with garlic and soy sauce.",
+          "price": 14.95,
+          "image": "https://app1.restolabs.com/sites/default/files/styles/royale_item_pic/public/Shrimp%20with%20Broccoli%20%28%E8%8A%A5%E5%85%B0%E8%99%BE%29%20-%20Lunch%20Specials%20%28%E5%8D%88%E9%A4%90%E7%89%B9%E4%BB%B7%29.png?itok=JdUIyqMn"
+        },
+        {
+          "id": "1403138",
+          "name": "Shrimp with Snow Peas (雪豆虾) - Lunch Specials (午餐特价)",
+          "description": "Shrimp stir-fried with snow peas typically includes garlic and a light soy sauce glaze.",
+          "price": 14.95,
+          "image": "https://app1.restolabs.com/sites/default/files/styles/royale_item_pic/public/Shrimp%20with%20Snow%20Peas%20%28%E9%9B%AA%E8%B1%86%E8%99%BE%29%20-%20Lunch%20Specials%20%28%E5%8D%88%E9%A4%90%E7%89%B9%E4%BB%B7%29.png?itok=_So_8eP0"
+        },
+        {
+          "id": "1403139",
+          "name": "Sweet and Sour Chicken (甜酸鸡) - Lunch Specials (午餐特价)",
+          "description": "Battered and fried chicken pieces, tossed in a sweet and sour sauce with pineapple, bell peppers, and onions.",
+          "price": 13.95,
+          "image": "https://app1.restolabs.com/sites/default/files/styles/royale_item_pic/public/Sweet%20and%20Sour%20Chicken%20%28%E7%94%9C%E9%85%B8%E9%B8%A1%29%20-%20Lunch%20Specials%20%28%E5%8D%88%E9%A4%90%E7%89%B9%E4%BB%B7%29.jpg?itok=y0-pj1oF"
+        },
+        {
+          "id": "1403140",
+          "name": "Sweet and Sour Pork (甜酸肉) - Lunch Specials (午餐特价)",
+          "description": "Battered pork, fried and coated in a sweet and sour sauce with pineapple, bell peppers, and onions.",
+          "price": 13.95,
+          "image": "https://app1.restolabs.com/sites/default/files/styles/royale_item_pic/public/Sweet%20and%20Sour%20Pork%20%28%E7%94%9C%E9%85%B8%E8%82%89%29%20-%20Lunch%20Specials%20%28%E5%8D%88%E9%A4%90%E7%89%B9%E4%BB%B7%29.png?itok=9qUwOfkZ"
+        },
+        {
+          "id": "1403141",
+          "name": "Hunan Shrimp (湖南虾) - Lunch Specials (午餐特价)",
+          "description": "Hunan shrimp typically includes stir-fried shrimp in a spicy Hunan sauce, often with garlic and onions.",
+          "price": 13.95,
+          "image": "https://app1.restolabs.com/sites/default/files/styles/royale_item_pic/public/Hunan%20Shrimp%20%28%E6%B9%96%E5%8D%97%E8%99%BE%29%20-%20Lunch%20Specials%20%28%E5%8D%88%E9%A4%90%E7%89%B9%E4%BB%B7%29.png?itok=fXDjk7Ym"
+        },
+        {
+          "id": "1403142",
+          "name": "Szechuan Beef (四川牛) - Lunch Specials (午餐特价)",
+          "description": "Szechuan beef, a stir-fried dish with bold Szechuan pepper flavors, typically includes vegetables.",
+          "price": 13.95,
+          "image": "https://app1.restolabs.com/sites/default/files/styles/royale_item_pic/public/Beef%20with%20Broccoli%20%28%E8%A5%BF%E5%85%B0%E7%89%9B%29%20-%20Lunch%20Specials%20%28%E5%8D%88%E9%A4%90%E7%89%B9%E4%BB%B7%29.png?itok=tNfmLYUN"
+        },
+        {
+          "id": "1403143",
+          "name": "Hunan Beef (湖南牛) - Lunch Specials (午餐特价)",
+          "description": "Hunan beef typically includes thinly sliced beef stir-fried with vegetables like bell peppers in a spicy sauce.",
+          "price": 13.95,
+          "image": "https://app1.restolabs.com/sites/default/files/styles/royale_item_pic/public/Hunan%20Beef%20%28%E6%B9%96%E5%8D%97%E7%89%9B%29%20-%20Lunch%20Specials%20%28%E5%8D%88%E9%A4%90%E7%89%B9%E4%BB%B7%29.png?itok=nNcY-nna"
+        },
+        {
+          "id": "1403144",
+          "name": "Orange Chicken (橙鸡) - Lunch Specials (午餐特价)",
+          "description": "Served with soup of the day, appetizer, chicken chow mein, and chicken fried rice.",
+          "price": 13.95,
+          "image": "https://app1.restolabs.com/sites/default/files/styles/royale_item_pic/public/Orange%20Chicken%20%28%E6%A9%99%E9%B8%A1%29%20-%20Lunch%20Specials%20%28%E5%8D%88%E9%A4%90%E7%89%B9%E4%BB%B7%29.png?itok=daBqNjXS"
+        },
+        {
+          "id": "1403145",
+          "name": "Mongolian Beef (蒙古牛) - Lunch Specials (午餐特价)",
+          "description": "Sliced beef stir-fried with onions, and typically includes green onions, in a savory sauce.",
+          "price": 14.95,
+          "image": "https://app1.restolabs.com/sites/default/files/styles/royale_item_pic/public/Mongolian%20Beef%20%28%E8%92%99%E5%8F%A4%E7%89%9B%29%20-%20Lunch%20Specials%20%28%E5%8D%88%E9%A4%90%E7%89%B9%E4%BB%B7%29.png?itok=RdQBpEV6"
+        },
+        {
+          "id": "1403146",
+          "name": "Walnut Shrimp (核桃虾) - Lunch Specials (午餐特价)",
+          "description": "Contains walnuts. Crispy shrimp coated in a sweet, creamy sauce, garnished with walnuts.",
+          "price": 14.95,
+          "image": "https://app1.restolabs.com/sites/default/files/styles/royale_item_pic/public/Beef%20with%20Broccoli%20%28%E8%A5%BF%E5%85%B0%E7%89%9B%29%20-%20Lunch%20Specials%20%28%E5%8D%88%E9%A4%90%E7%89%B9%E4%BB%B7%29.png?itok=tNfmLYUN"
+        }
+      ]
+    },
+    {
+      "id": "1403158",
+      "name": " Noodle Soups (湯麵類 ) ",
+      "image": "https://app1.restolabs.com/sites/default/files/styles/royale_item_pic/public/Beef%20Brisket%20Noodle%20Soup%20%28%E7%89%9B%E8%85%A9%E6%B1%A4%E9%9D%A2%29.png?itok=PocrdcDX",
+      "items": [
+        {
+          "id": "1403159",
+          "name": "Beef Brisket Noodle Soup (牛腩汤面)",
+          "description": "Tender beef brisket with noodles in a savory broth, garnished with chopped green onions and cabbage.",
+          "price": 15.95,
+          "image": "https://app1.restolabs.com/sites/default/files/styles/royale_item_pic/public/Beef%20Brisket%20Noodle%20Soup%20%28%E7%89%9B%E8%85%A9%E6%B1%A4%E9%9D%A2%29.png?itok=PocrdcDX"
+        },
+        {
+          "id": "1403160",
+          "name": "Wor Wonton Noodle Soup (窝云吞汤面)",
+          "description": "Wor wonton noodle soup features a savory broth with wontons, typically filled with pork and shrimp, accompanied by noodles and a variety of vegetables.",
+          "price": 16.95,
+          "image": "https://app1.restolabs.com/sites/default/files/styles/royale_item_pic/public/Wor%20Wonton%20Noodle%20Soup%20%28%E7%AA%9D%E4%BA%91%E5%90%9E%E6%B1%A4%E9%9D%A2%29.png?itok=I8O_-GZV"
+        },
+        {
+          "id": "1403161",
+          "name": "Beef Brisket Wonton Noodle Soup (牛腩云吞汤面)",
+          "description": "Beef brisket and shrimp wontons in a seasoned broth and served with egg noodles.",
+          "price": 16.95,
+          "image": "https://app1.restolabs.com/sites/default/files/styles/royale_item_pic/public/Beef%20Brisket%20Noodle%20Soup%20%28%E7%89%9B%E8%85%A9%E6%B1%A4%E9%9D%A2%29.png?itok=PocrdcDX"
+        },
+        {
+          "id": "1403162",
+          "name": "Shrimp Wonton Noodle Soup (蝦球雲吞汤麵)",
+          "description": "Shrimp wonton noodle soup typically includes shrimp-filled wontons and egg noodles served in a seasoned broth with greens.",
+          "price": 14.95,
+          "image": "https://app1.restolabs.com/sites/default/files/styles/royale_item_pic/public/Beef%20Brisket%20Noodle%20Soup%20%28%E7%89%9B%E8%85%A9%E6%B1%A4%E9%9D%A2%29.png?itok=PocrdcDX"
+        },
+        {
+          "id": "1403163",
+          "name": "BBQ Pork Wonton Noodle Soup (叉烧云吞汤面)",
+          "description": "Egg noodles in a savory broth, accompanied by BBQ pork slices and shrimp, pork wontons, and garnished with scallions.",
+          "price": 14.95,
+          "image": "https://app1.restolabs.com/sites/default/files/styles/royale_item_pic/public/Beef%20Brisket%20Noodle%20Soup%20%28%E7%89%9B%E8%85%A9%E6%B1%A4%E9%9D%A2%29.png?itok=PocrdcDX"
+        },
+        {
+          "id": "1403164",
+          "name": "Beef Wonton Noodle Soup (牛肉云吞汤面)",
+          "description": "Beef and shrimp wontons in a savory broth, accompanied by noodles, and typically include vegetables.",
+          "price": 14.95,
+          "image": "https://app1.restolabs.com/sites/default/files/styles/royale_item_pic/public/Beef%20Brisket%20Noodle%20Soup%20%28%E7%89%9B%E8%85%A9%E6%B1%A4%E9%9D%A2%29.png?itok=PocrdcDX"
+        }
+      ]
+    },
+    {
+      "id": "1403037",
+      "name": " Seafood (海鮮類) ",
+      "image": "https://app1.restolabs.com/sites/default/files/styles/royale_item_pic/public/Cashew%20Nut%20Shrimp%20%28%E8%85%B0%E6%9E%9C%E8%9D%A6%E7%90%83%29.jpeg?itok=qGQnk46A",
+      "items": [
+        {
+          "id": "1403038",
+          "name": "Cashew Nut Shrimp (腰果蝦球)",
+          "description": "Contains cashew nuts. Shrimp sautéed with cashew nuts and mixed vegetables",
+          "price": 16.95,
+          "image": "https://app1.restolabs.com/sites/default/files/styles/royale_item_pic/public/Cashew%20Nut%20Shrimp%20%28%E8%85%B0%E6%9E%9C%E8%9D%A6%E7%90%83%29.jpeg?itok=qGQnk46A"
+        },
+        {
+          "id": "1403039",
+          "name": "Fried Squid with Spicy Salt (椒鹽鮮魷)",
+          "description": "Fried squid seasoned with spicy salt in a light batter",
+          "price": 16.95,
+          "image": "https://app1.restolabs.com/sites/default/files/styles/royale_item_pic/public/Fried%20Squid%20%28%E7%82%B8%E9%AD%B7%E9%AD%9A%29%20-%20Dim%20Sum%20%28%E7%82%B9%E5%BF%83%29.png?itok=h8OIwIi4"
+        },
+        {
+          "id": "1403040",
+          "name": "Shrimp with Broccoli (西蘭蝦)",
+          "description": "Sautéed shrimp and broccoli in a savory sauce",
+          "price": 16.95,
+          "image": "https://app1.restolabs.com/sites/default/files/styles/royale_item_pic/public/Shrimp%20with%20Broccoli%20%28%E8%8A%A5%E5%85%B0%E8%99%BE%29.jpg?itok=G1sqltok"
+        },
+        {
+          "id": "1403041",
+          "name": "Shrimp with Lobster Sauce (蝦龍糊)",
+          "description": "Contains chestnuts. Shrimp sautéed in a savory lobster-infused sauce",
+          "price": 16.95,
+          "image": "https://app1.restolabs.com/sites/default/files/styles/royale_item_pic/public/shrimp%20with%20lobster.jpeg?itok=QpLEEz-y"
+        },
+        {
+          "id": "1403042",
+          "name": "Shrimp with Spicy Salt (椒鹽蝦)",
+          "description": "Shrimp seasoned with a blend of spicy salt and stir-fried to perfection",
+          "price": 16.95,
+          "image": "https://app1.restolabs.com/sites/default/files/styles/royale_item_pic/public/shrimp%20with%20spicy%20salt.jpg?itok=RuRWQmlI"
+        },
+        {
+          "id": "1403043",
+          "name": "Sweet and Sour Fish (甜酸石班球)",
+          "description": "Fried fish balls in a tangy, sweet and sour sauce with pineapple",
+          "price": 16.95,
+          "image": "https://app1.restolabs.com/sites/default/files/styles/royale_item_pic/public/sweet%20and%20sour%20fish.jpg?itok=WEgHc1KD"
+        },
+        {
+          "id": "1403044",
+          "name": "Honey Walnut Shrimp (合桃蝦)",
+          "description": "Contains walnuts. Tender shrimp coated in a creamy sauce, topped with candied walnuts",
+          "price": 18.95,
+          "image": "https://app1.restolabs.com/sites/default/files/styles/royale_item_pic/public/Cashew%20Nut%20Shrimp%20%28%E8%85%B0%E6%9E%9C%E8%9D%A6%E7%90%83%29.jpeg?itok=qGQnk46A"
+        },
+        {
+          "id": "1403045",
+          "name": "Shrimp with Snow Peas (雪豆蝦球)",
+          "description": "Shrimp and snow peas sautéed in a light sauce",
+          "price": 16.95,
+          "image": "https://app1.restolabs.com/sites/default/files/styles/royale_item_pic/public/shrimp%20with%20snow%20peas.jpg?itok=ncOcegdA"
+        },
+        {
+          "id": "1403046",
+          "name": "Deep-Fried Whole Flounder (酥炸龍利)",
+          "description": "Whole flounder deep-fried until golden, accompanied by a dipping sauce",
+          "price": 25.95,
+          "image": "https://app1.restolabs.com/sites/default/files/styles/royale_item_pic/public/Cashew%20Nut%20Shrimp%20%28%E8%85%B0%E6%9E%9C%E8%9D%A6%E7%90%83%29.jpeg?itok=qGQnk46A"
+        },
+        {
+          "id": "1403047",
+          "name": "Happy Family (全家福)",
+          "description": "Shrimp, scallops, and fish fillets stir-fried with broccoli and mixed vegetables",
+          "price": 17.95,
+          "image": "https://app1.restolabs.com/sites/default/files/styles/royale_item_pic/public/Cashew%20Nut%20Shrimp%20%28%E8%85%B0%E6%9E%9C%E8%9D%A6%E7%90%83%29.jpeg?itok=qGQnk46A"
+        },
+        {
+          "id": "1403048",
+          "name": "Kung Pao Shrimp (宮保蝦)",
+          "description": "Contains peanuts. Stir-fried shrimp with peanuts and vegetables",
+          "price": 16.95,
+          "image": "https://app1.restolabs.com/sites/default/files/styles/royale_item_pic/public/Cashew%20Nut%20Shrimp%20%28%E8%85%B0%E6%9E%9C%E8%9D%A6%E7%90%83%29.jpeg?itok=qGQnk46A"
+        },
+        {
+          "id": "1403049",
+          "name": "Rock Cod with Black Bean Sauce (豉椒斑片)",
+          "description": "Sliced rock cod stir-fried with fermented black beans and bell peppers",
+          "price": 16.95,
+          "image": "https://app1.restolabs.com/sites/default/files/styles/royale_item_pic/public/Cashew%20Nut%20Shrimp%20%28%E8%85%B0%E6%9E%9C%E8%9D%A6%E7%90%83%29.jpeg?itok=qGQnk46A"
+        },
+        {
+          "id": "1403050",
+          "name": "Seafood with XO Sauce (炒三鮮)",
+          "description": "Squid, shrimp, and scallop stir-fried with XO sauce",
+          "price": 17.95,
+          "image": "https://app1.restolabs.com/sites/default/files/styles/royale_item_pic/public/Cashew%20Nut%20Shrimp%20%28%E8%85%B0%E6%9E%9C%E8%9D%A6%E7%90%83%29.jpeg?itok=qGQnk46A"
+        },
+        {
+          "id": "1403051",
+          "name": "Steamed Whole Flounder (清蒸龍利)",
+          "description": "Steamed whole flounder with delicate seasonings",
+          "price": 25.95,
+          "image": "https://app1.restolabs.com/sites/default/files/styles/royale_item_pic/public/Cashew%20Nut%20Shrimp%20%28%E8%85%B0%E6%9E%9C%E8%9D%A6%E7%90%83%29.jpeg?itok=qGQnk46A"
+        },
+        {
+          "id": "1403052",
+          "name": "Stir-Fried Squid with Tender Green (時菜鮮魷)",
+          "description": "Stir-fried squid and seasonal tender greens with a light sauce",
+          "price": 16.95,
+          "image": "https://app1.restolabs.com/sites/default/files/styles/royale_item_pic/public/Cashew%20Nut%20Shrimp%20%28%E8%85%B0%E6%9E%9C%E8%9D%A6%E7%90%83%29.jpeg?itok=qGQnk46A"
+        }
+      ]
+    },
+    {
+      "id": "1403165",
+      "name": "Family Dinners",
+      "image": "/images/menu-fallback.svg",
+      "items": [
+        {
+          "id": "1403166",
+          "name": "Cantonese Dinner (for 2)",
+          "description": "Wonton soup, fried prawns, spring roll, sweet and sour chicken, cashew chicken, and BBQ pork fried rice.",
+          "price": 39.9,
+          "image": "/images/menu-fallback.svg"
+        },
+        {
+          "id": "1403167",
+          "name": "Hong Kong Dinner (for 2)",
+          "description": "Contains walnuts. Wonton soup, fried prawn, spring roll, happy family, honey walnut prawn, and house special chow mein.",
+          "price": 45.9,
+          "image": "/images/menu-fallback.svg"
+        },
+        {
+          "id": "1403168",
+          "name": "Cantonese Dinner (for 3)",
+          "description": "Wonton soup, fried prawns, spring roll, sweet and sour chicken, cashew chicken, BBQ pork fried rice or BBQ pork chow mein.",
+          "price": 59.85,
+          "image": "/images/menu-fallback.svg"
+        },
+        {
+          "id": "1403169",
+          "name": "Cantonese Dinner (for 4)",
+          "description": "Sweet and sour chicken, cashew chicken, BBQ pork fried rice or BBQ pork chow mein, Peking spareribs.",
+          "price": 79.8,
+          "image": "/images/menu-fallback.svg"
+        },
+        {
+          "id": "1403170",
+          "name": "Cantonese Dinner (for 5)",
+          "description": "Contains walnuts. Wonton soup, fried prawns, spring roll, sweet and sour chicken, cashew chicken, BBQ pork fried rice or BBQ pork chow mein.",
+          "price": 99.75,
+          "image": "/images/menu-fallback.svg"
+        },
+        {
+          "id": "1403171",
+          "name": "Cantonese Dinner (for 6)",
+          "description": "Contains walnuts. Wonton soup, fried prawns, spring roll, sweet and sour chicken, cashew chicken, BBQ pork fried rice or BBQ pork chow mein.",
+          "price": 119.7,
+          "image": "/images/menu-fallback.svg"
+        },
+        {
+          "id": "1403172",
+          "name": "Hong Kong Dinner (for 3)",
+          "description": "Contains walnuts. Wonton soup, fried prawn, spring roll, happy family, honey walnut prawn, house special chow mein, and house special fried rice.",
+          "price": 68.85,
+          "image": "/images/menu-fallback.svg"
+        },
+        {
+          "id": "1403173",
+          "name": "Hong Kong Dinner (for 4)",
+          "description": "Contains walnuts. Wonton soup, fried prawn, spring roll, happy family, honey walnut prawn, house special chow mein, and house special fried rice.",
+          "price": 91.8,
+          "image": "/images/menu-fallback.svg"
+        },
+        {
+          "id": "1403174",
+          "name": "Hong Kong Dinner (for 5)",
+          "description": "Contains walnuts. Wonton soup, fried prawn, spring roll, happy family, honey walnut prawn, house special chow mein, and house special fried rice.",
+          "price": 114.75,
+          "image": "/images/menu-fallback.svg"
+        },
+        {
+          "id": "1403175",
+          "name": "Peking Dinner (for 2)",
+          "description": "Hot and sour soup, fried cheese wonton, spring roll, Kung Pao chicken (hot and spicy), General Tso’s chicken (hot and spicy), and chicken chow mein.",
+          "price": 39.9,
+          "image": "/images/menu-fallback.svg"
+        },
+        {
+          "id": "1403176",
+          "name": "Peking Dinner (for 3)",
+          "description": "Hot and sour soup, fried wonton, spring roll, Kung Pao chicken (hot and spicy), General Tso’s chicken (hot and spicy), and chicken chow mein.",
+          "price": 59.85,
+          "image": "/images/menu-fallback.svg"
+        },
+        {
+          "id": "1403177",
+          "name": "Peking Dinner (for 4)",
+          "description": "Hot and sour soup, fried wonton, spring roll, Kung Pao chicken (hot and spicy), General Tso’s chicken (hot and spicy), and chicken chow mein.",
+          "price": 79.8,
+          "image": "/images/menu-fallback.svg"
+        },
+        {
+          "id": "1403178",
+          "name": "Peking Dinner (for 5)",
+          "description": "Hot and sour soup, fried wonton, spring roll, Kung Pao chicken (hot and spicy), General Tso’s chicken (hot and spicy), and chicken chow mein.",
+          "price": 99.75,
+          "image": "/images/menu-fallback.svg"
+        },
+        {
+          "id": "1403179",
+          "name": "Peking Dinner (for 6)",
+          "description": "Hot and sour soup, fried wonton, spring roll, Kung Pao chicken (hot and spicy), General Tso’s chicken (hot and spicy), and chicken chow mein.",
+          "price": 119.7,
+          "image": "/images/menu-fallback.svg"
+        },
+        {
+          "id": "1403180",
+          "name": "Vegetarian Delight Dinner (for 2)",
+          "description": "Seaweed tofu soup, spring roll, fried cheese wonton, vegetable fried rice, mixed vegetables, and braised tofu.",
+          "price": 33.9,
+          "image": "/images/menu-fallback.svg"
+        },
+        {
+          "id": "1403181",
+          "name": "Vegetarian Delight Dinner (for 3)",
+          "description": "Seaweed tofu soup, spring roll, fried cheese wonton, vegetable fried rice, mixed vegetables, braised tofu, and triple mushrooms with oyster sauce.",
+          "price": 50.85,
+          "image": "/images/menu-fallback.svg"
+        },
+        {
+          "id": "1403182",
+          "name": "Vegetarian Delight Dinner (for 4)",
+          "description": "Seaweed tofu soup, spring roll, fried cheese wonton, vegetable fried rice, mixed vegetables, braised tofu, and triple mushrooms with oyster sauce.",
+          "price": 67.8,
+          "image": "/images/menu-fallback.svg"
+        },
+        {
+          "id": "1403183",
+          "name": "Vegetarian Delight Dinner (for 5)",
+          "description": "Seaweed tofu soup, spring roll, fried wonton, vegetable fried rice, mixed vegetables, braised tofu, and triple mushrooms with oyster sauce.",
+          "price": 84.75,
+          "image": "/images/menu-fallback.svg"
+        }
+      ]
+    },
+    {
+      "id": "1403184",
+      "name": " Mu-Shu (木須類) ",
+      "image": "https://app1.restolabs.com/sites/default/files/styles/royale_item_pic/public/Mu-Shu%20Pork%20%28%E6%9C%A8%E9%A0%88%E8%82%89%29.jpg?itok=Bg3eDORy",
+      "items": [
+        {
+          "id": "1403185",
+          "name": "Mu-Shu Pork (木須肉)",
+          "description": "Shredded pork stir-fried with eggs, cabbage, and mushrooms, and typically includes a side of thin pancakes for wrapping.",
+          "price": 14.95,
+          "image": "https://app1.restolabs.com/sites/default/files/styles/royale_item_pic/public/Mu-Shu%20Pork%20%28%E6%9C%A8%E9%A0%88%E8%82%89%29.jpg?itok=Bg3eDORy"
+        },
+        {
+          "id": "1403186",
+          "name": "Mu-Shu Chicken (木須雞)",
+          "description": "Shredded chicken stir-fried with cabbage, wood ear mushrooms, and scrambled eggs, typically includes bamboo shoots and is served with thin pancakes.",
+          "price": 14.95,
+          "image": "https://app1.restolabs.com/sites/default/files/styles/royale_item_pic/public/Mu-Shu%20Chicken%20%28%E6%9C%A8%E9%A0%88%E9%9B%9E%29.png?itok=iC-3G6ZH"
+        },
+        {
+          "id": "1403187",
+          "name": "Mu-Shu Beef (木須牛)",
+          "description": "Stir-fried beef with cabbage, eggs, and wood ear mushrooms typically includes a side of thin pancakes and hoisin sauce for wrapping.",
+          "price": 14.95,
+          "image": "https://app1.restolabs.com/sites/default/files/styles/royale_item_pic/public/Mu-Shu%20Pork%20%28%E6%9C%A8%E9%A0%88%E8%82%89%29.jpg?itok=Bg3eDORy"
+        },
+        {
+          "id": "1403188",
+          "name": "Mu-Shu Shrimp (木須蝦)",
+          "description": "Stir-fried shrimp combined with eggs, cabbage, and green onions, wrapped in a thin pancake and typically served with hoisin sauce.",
+          "price": 15.95,
+          "image": "https://app1.restolabs.com/sites/default/files/styles/royale_item_pic/public/Mu-Shu%20Pork%20%28%E6%9C%A8%E9%A0%88%E8%82%89%29.jpg?itok=Bg3eDORy"
+        },
+        {
+          "id": "1403189",
+          "name": "Mu-Shu Vegetables (木須菜)",
+          "description": "Stir-fried mixed vegetables wrapped in a thin pancake, typically includes cabbage, mushrooms, and bamboo shoots, and served with a side of hoisin sauce.",
+          "price": 13.95,
+          "image": "https://app1.restolabs.com/sites/default/files/styles/royale_item_pic/public/Mu-Shu%20Pork%20%28%E6%9C%A8%E9%A0%88%E8%82%89%29.jpg?itok=Bg3eDORy"
+        }
+      ]
+    },
+    {
+      "id": "1403190",
+      "name": " Egg Foo Young (芙蓉類) ",
+      "image": "https://app1.restolabs.com/sites/default/files/styles/royale_item_pic/public/Chicken%20Egg%20Foo%20Young%20%28%E9%9B%9E%E8%8A%99%E8%93%89%29.png?itok=5LyREJsO",
+      "items": [
+        {
+          "id": "1403191",
+          "name": "Chicken Egg Foo Young (雞芙蓉)",
+          "description": "Chicken egg foo young is an omelet made with eggs, chicken, and typically includes bean sprouts and vegetables, and finished with a savory sauce.",
+          "price": 13.95,
+          "image": "https://app1.restolabs.com/sites/default/files/styles/royale_item_pic/public/Chicken%20Egg%20Foo%20Young%20%28%E9%9B%9E%E8%8A%99%E8%93%89%29.png?itok=5LyREJsO"
+        },
+        {
+          "id": "1403192",
+          "name": "Shrimp Egg Foo Young (蝦芙蓉)",
+          "description": "Shrimp egg foo young typically consists of an omelet made with shrimp and a mix of vegetables and served with a savory sauce.",
+          "price": 14.95,
+          "image": "https://app1.restolabs.com/sites/default/files/styles/royale_item_pic/public/Shrimp%20Egg%20Foo%20Young%20%28%E8%9D%A6%E8%8A%99%E8%93%89%29.png?itok=BBHvqjtR"
+        },
+        {
+          "id": "1403193",
+          "name": "BBQ Pork Egg Foo Young (叉燒芙蓉)",
+          "description": "A Chinese-style omelet made with eggs and barbecued pork, typically accompanied by vegetables and served with a savory sauce.",
+          "price": 13.95,
+          "image": "https://app1.restolabs.com/sites/default/files/styles/royale_item_pic/public/Chicken%20Egg%20Foo%20Young%20%28%E9%9B%9E%E8%8A%99%E8%93%89%29.png?itok=5LyREJsO"
+        },
+        {
+          "id": "1403194",
+          "name": "Mixed Vegetable Egg Foo Young (什菜芙蓉)",
+          "description": "A 3-egg omelet filled with a medley of vegetables, typically includes bean sprouts and mixed seasonal vegetables.",
+          "price": 13.95,
+          "image": "https://app1.restolabs.com/sites/default/files/styles/royale_item_pic/public/Mixed%20Vegetable%20Egg%20Foo%20Young%20%28%E4%BB%80%E8%8F%9C%E8%8A%99%E8%93%89%29.png?itok=HatL4RPd"
+        },
+        {
+          "id": "1403195",
+          "name": "Beef Egg Foo Young (牛芙蓉)",
+          "description": "Beef egg foo young consists of a Chinese-style omelet made with eggs, beef, and typically includes bean sprouts and onions, and served with a savory sauce.",
+          "price": 14.95,
+          "image": "https://app1.restolabs.com/sites/default/files/styles/royale_item_pic/public/Chicken%20Egg%20Foo%20Young%20%28%E9%9B%9E%E8%8A%99%E8%93%89%29.png?itok=5LyREJsO"
+        },
+        {
+          "id": "1403196",
+          "name": "House Special Egg Foo Young (本楼芙蓉)",
+          "description": "A savory Asian-style omelette featuring shrimp, vegetables, and house special ingredients.",
+          "price": 15.95,
+          "image": "https://app1.restolabs.com/sites/default/files/styles/royale_item_pic/public/Chicken%20Egg%20Foo%20Young%20%28%E9%9B%9E%E8%8A%99%E8%93%89%29.png?itok=5LyREJsO"
+        }
+      ]
+    },
+    {
+      "id": "1403197",
+      "name": " Chef's Specialties (厨师推荐) ",
+      "image": "https://app1.restolabs.com/sites/default/files/styles/royale_item_pic/public/Crispy%20Fried%20Calamari%20with%20Salted%20Egg%20Yolk%20%28%E9%BB%84%E9%87%91%E5%B0%A4%E9%B1%BC%29.png?itok=u_49q8YF",
+      "items": [
+        {
+          "id": "1403198",
+          "name": "Crispy Fried Calamari with Salted Egg Yolk (黄金尤鱼)",
+          "description": "Crispy fried calamari, coated in a rich, savory salted egg yolk batter and often accompanied by a hint of spices.",
+          "price": 17.95,
+          "image": "https://app1.restolabs.com/sites/default/files/styles/royale_item_pic/public/Crispy%20Fried%20Calamari%20with%20Salted%20Egg%20Yolk%20%28%E9%BB%84%E9%87%91%E5%B0%A4%E9%B1%BC%29.png?itok=u_49q8YF"
+        },
+        {
+          "id": "1403199",
+          "name": "Crispy Fried Fish with Salted Egg Yolk (黄金鱼片)",
+          "description": "Crispy fried fish fillets, coated and seasoned with crushed salted egg yolk, offer a unique blend of textures and flavors.",
+          "price": 17.95,
+          "image": "https://app1.restolabs.com/sites/default/files/styles/royale_item_pic/public/Crispy%20Fried%20Fish%20with%20Salted%20Egg%20Yolk%20%28%E9%BB%84%E9%87%91%E9%B1%BC%E7%89%87%29.png?itok=PKeJgqX-"
+        },
+        {
+          "id": "1403200",
+          "name": "Crispy Fried Prawns with Salted Egg Yolk (黄金大虾)",
+          "description": "Crispy fried prawns coated in a rich, savory salted egg yolk batter, offering a unique blend of textures and flavors.",
+          "price": 19.95,
+          "image": "https://app1.restolabs.com/sites/default/files/styles/royale_item_pic/public/Crispy%20Fried%20Prawns%20with%20Salted%20Egg%20Yolk%20%28%E9%BB%84%E9%87%91%E5%A4%A7%E8%99%BE%29.png?itok=1pyxDU71"
+        },
+        {
+          "id": "1403201",
+          "name": "Stir-Fried Ribeye Steak with Oyster Sauce (中式牛柳)",
+          "description": "Ribeye steak stir-fried with oyster sauce typically includes onions and bell peppers and served with a side of steamed rice.",
+          "price": 17.95,
+          "image": "https://app1.restolabs.com/sites/default/files/styles/royale_item_pic/public/Crispy%20Fried%20Calamari%20with%20Salted%20Egg%20Yolk%20%28%E9%BB%84%E9%87%91%E5%B0%A4%E9%B1%BC%29.png?itok=u_49q8YF"
+        },
+        {
+          "id": "1403202",
+          "name": "Stir-Fried Ribeye Steak with Black Pepper Sauce (黑椒牛柳)",
+          "description": "Sliced ribeye steak stir-fried with onions and bell peppers and coated in a savory black pepper sauce.",
+          "price": 17.95,
+          "image": "https://app1.restolabs.com/sites/default/files/styles/royale_item_pic/public/Stir-Fried%20Ribeye%20Steak%20with%20Black%20Pepper%20Sauce%20%28%E9%BB%91%E6%A4%92%E7%89%9B%E6%9F%B3%29.png?itok=VgJDxdCs"
+        },
+        {
+          "id": "1403203",
+          "name": "Crispy Fried String Bean and Shrimp with Salted Egg Yolk (黄金豆仔虾)",
+          "description": "Crispy fried string beans and shrimp with salted egg yolk, garnished with chopped green and red peppers.",
+          "price": 17.95,
+          "image": "https://app1.restolabs.com/sites/default/files/styles/royale_item_pic/public/Crispy%20Fried%20Calamari%20with%20Salted%20Egg%20Yolk%20%28%E9%BB%84%E9%87%91%E5%B0%A4%E9%B1%BC%29.png?itok=u_49q8YF"
+        },
+        {
+          "id": "1403204",
+          "name": "Stir-Fried Ribeye Steak & Pan-Fried Noodles (牛柳煎面)",
+          "description": "Ribeye steak and noodles, pan-fried to achieve a savory texture, typically include a blend of vegetables and a signature sauce.",
+          "price": 17.95,
+          "image": "https://app1.restolabs.com/sites/default/files/styles/royale_item_pic/public/Crispy%20Fried%20Calamari%20with%20Salted%20Egg%20Yolk%20%28%E9%BB%84%E9%87%91%E5%B0%A4%E9%B1%BC%29.png?itok=u_49q8YF"
+        }
+      ]
+    },
+    {
+      "id": "1403147",
+      "name": " Beverages (饮料) ",
+      "image": "https://app1.restolabs.com/sites/default/files/styles/royale_item_pic/public/Coke.jpg?itok=RaS7XmVx",
+      "items": [
+        {
+          "id": "1403148",
+          "name": "Coke",
+          "description": "Classic Coca-Cola",
+          "price": 2,
+          "image": "https://app1.restolabs.com/sites/default/files/styles/royale_item_pic/public/Coke.jpg?itok=RaS7XmVx"
+        },
+        {
+          "id": "1403149",
+          "name": "Diet Coke",
+          "description": "Diet Coca-Cola",
+          "price": 2,
+          "image": "https://app1.restolabs.com/sites/default/files/styles/royale_item_pic/public/Diet%20Coke.jpg?itok=ebXOoAC2"
+        },
+        {
+          "id": "1403150",
+          "name": "Lemonade",
+          "description": "Refreshing lemonade",
+          "price": 2,
+          "image": "https://app1.restolabs.com/sites/default/files/styles/royale_item_pic/public/3923750_15?itok=Ab1PsgGg"
+        },
+        {
+          "id": "1403151",
+          "name": "Orange Crush",
+          "description": "Orange-flavored soda",
+          "price": 2,
+          "image": "https://app1.restolabs.com/sites/default/files/styles/royale_item_pic/public/3923750_30?itok=rjArfqvu"
+        },
+        {
+          "id": "1403152",
+          "name": "Root Beer",
+          "description": "Classic root beer",
+          "price": 2,
+          "image": "https://app1.restolabs.com/sites/default/files/styles/royale_item_pic/public/3923750_32?itok=8ivvhh_1"
+        },
+        {
+          "id": "1403153",
+          "name": "Sprite",
+          "description": "Lemon-lime soda",
+          "price": 2,
+          "image": "https://app1.restolabs.com/sites/default/files/styles/royale_item_pic/public/Sprite_1.jpg?itok=qATEx5Y7"
+        },
+        {
+          "id": "1403154",
+          "name": "Water",
+          "description": "Bottled water",
+          "price": 2,
+          "image": "https://app1.restolabs.com/sites/default/files/styles/royale_item_pic/public/Water_0.jpg?itok=4Lhjo8PY"
+        },
+        {
+          "id": "1403155",
+          "name": "Dr Pepper",
+          "description": "A signature blend of 23 flavors makes every sip of Dr. Pepper truly unique.",
+          "price": 2,
+          "image": "https://app1.restolabs.com/sites/default/files/styles/royale_item_pic/public/3923750_60?itok=0qX-JGiK"
+        }
+      ]
+    },
+    {
+      "id": "1403205",
+      "name": "Dim Sum Cheong Fun (点心肠粉)",
+      "image": "https://app1.restolabs.com/sites/default/files/styles/royale_item_pic/public/BBQ%20Pork%20Cheong%20Fun%20%28%E5%8F%89%E7%87%92%E8%85%B8%E7%B2%89%29%20%28Saturdays%2C%20Sundays%20only%29.jpg?itok=f5xdt2i_",
+      "items": [
+        {
+          "id": "1403206",
+          "name": "BBQ Pork Cheong Fun (叉烧肠粉) (Saturdays, Sundays only)",
+          "description": "Soft rice noodle rolls filled with tender barbecue pork, offering a savory and satisfying bite.",
+          "price": 7.95,
+          "image": "https://app1.restolabs.com/sites/default/files/styles/royale_item_pic/public/BBQ%20Pork%20Cheong%20Fun%20%28%E5%8F%89%E7%87%92%E8%85%B8%E7%B2%89%29%20%28Saturdays%2C%20Sundays%20only%29.jpg?itok=f5xdt2i_"
+        },
+        {
+          "id": "1403207",
+          "name": "Beef Cheung Fun (牛肉肠) (Saturdays, Sundays only)",
+          "description": "Steamed rice noodle rolls filled with tender beef.",
+          "price": 7.95,
+          "image": "https://app1.restolabs.com/sites/default/files/styles/royale_item_pic/public/BBQ%20Pork%20Cheong%20Fun%20%28%E5%8F%89%E7%87%92%E8%85%B8%E7%B2%89%29%20%28Saturdays%2C%20Sundays%20only%29.jpg?itok=f5xdt2i_"
+        },
+        {
+          "id": "1403208",
+          "name": "Egg Cheong Fun (蛋肠粉) (Saturdays, Sundays only)",
+          "description": "Steamed rice noodle rolls filled with a smooth, lightly beaten egg and typically served with a sweet soy sauce.",
+          "price": 7.95,
+          "image": "https://app1.restolabs.com/sites/default/files/styles/royale_item_pic/public/BBQ%20Pork%20Cheong%20Fun%20%28%E5%8F%89%E7%87%92%E8%85%B8%E7%B2%89%29%20%28Saturdays%2C%20Sundays%20only%29.jpg?itok=f5xdt2i_"
+        }
+      ]
+    },
+    {
+      "id": "1403209",
+      "name": "Clay Pot (煲仔类)",
+      "image": "https://app1.restolabs.com/sites/default/files/styles/royale_item_pic/public/3923750_71?itok=dkYRgCzf",
+      "items": [
+        {
+          "id": "1403210",
+          "name": "Beef Brisket in Clay Pot 柱侯牛腩煲",
+          "description": "Tender beef brisket simmered with daikon radish and green onions in a savory sauce.",
+          "price": 16.95,
+          "image": "https://app1.restolabs.com/sites/default/files/styles/royale_item_pic/public/3923750_71?itok=dkYRgCzf"
+        },
+        {
+          "id": "1403211",
+          "name": "Seafood with Tofu in Clay Pot 红烧豆腐煲",
+          "description": "Seafood and tofu cooked together in a savory sauce typically includes a mix of seafood like shrimp and white fish, and served in a traditional clay pot.",
+          "price": 16.95,
+          "image": "https://app1.restolabs.com/sites/default/files/styles/royale_item_pic/public/Seafood%20with%20Tofu%20in%20Clay%20Pot%20%E7%B4%85%E7%87%92%E7%8F%AD%E8%85%A9%E7%85%B2.png?itok=lGdF01C9"
+        },
+        {
+          "id": "1403212",
+          "name": "Braised Rock Cod with Tofu in Clay Pot 红烧班腩煲",
+          "description": "Tender braised rock cod with tofu, snap peas, mushrooms, and carrots in a savory sauce.",
+          "price": 16.95,
+          "image": "https://app1.restolabs.com/sites/default/files/styles/royale_item_pic/public/Braised%20Rock%20Cod%20with%20Tofu%20in%20Clay%20Pot%20%E7%B4%85%E7%87%92%E7%8F%AD%E8%85%A9%E7%85%B2.png?itok=WUEsEb4S"
+        },
+        {
+          "id": "1403213",
+          "name": "Eggplant with Salty Fish and Chicken 咸鱼鸡粒茄子煲",
+          "description": "Eggplant, salty fish, and chicken, cooked together in a clay pot and typically include a savory sauce.",
+          "price": 16.95,
+          "image": "https://app1.restolabs.com/sites/default/files/styles/royale_item_pic/public/3923750_71?itok=dkYRgCzf"
+        },
+        {
+          "id": "1403214",
+          "name": "Tofu with Salty Fish and Chicken 咸鱼鸡粒豆腐煲",
+          "description": "Tofu with salty fish and chicken in a clay pot combines tofu, salted fish, and chicken pieces in a savory sauce.",
+          "price": 16.95,
+          "image": "https://app1.restolabs.com/sites/default/files/styles/royale_item_pic/public/3923750_71?itok=dkYRgCzf"
+        }
+      ]
+    },
+    {
+      "id": "1403218",
+      "name": "Sizzling Plate (鐵板類 )",
+      "image": "https://app1.restolabs.com/sites/default/files/styles/royale_item_pic/public/Sizzling%20Seafood%20Combination%20%28%E9%93%81%E6%9D%BF%E6%B5%B7%E9%AE%AE%E4%BB%80%E7%87%B4%29.png?itok=L4OOU07Z",
+      "items": [
+        {
+          "id": "1403219",
+          "name": "Sizzling Seafood Combination (铁板海鮮什燴)",
+          "description": "Sizzling seafood combination typically includes shrimp, crab meat, mussels, and squid served on a hot, sizzling plate and often accompanied by vegetables.",
+          "price": 18.95,
+          "image": "https://app1.restolabs.com/sites/default/files/styles/royale_item_pic/public/Sizzling%20Seafood%20Combination%20%28%E9%93%81%E6%9D%BF%E6%B5%B7%E9%AE%AE%E4%BB%80%E7%87%B4%29.png?itok=L4OOU07Z"
+        },
+        {
+          "id": "1403220",
+          "name": "Sizzling Ribeye Steak with Mixed Mushrooms (铁板燒汁什菌牛柳)",
+          "description": "Served on a hot, sizzling plate, this dish features a tender ribeye steak paired with a variety of mushrooms and typically cooked in a savory sauce.",
+          "price": 18.95,
+          "image": "https://app1.restolabs.com/sites/default/files/styles/royale_item_pic/public/Sizzling%20Seafood%20Combination%20%28%E9%93%81%E6%9D%BF%E6%B5%B7%E9%AE%AE%E4%BB%80%E7%87%B4%29.png?itok=L4OOU07Z"
+        },
+        {
+          "id": "1576602",
+          "name": "demo",
+          "description": "",
+          "price": 0.5,
+          "image": "https://app1.restolabs.com/sites/default/files/styles/royale_item_pic/public/Sizzling%20Seafood%20Combination%20%28%E9%93%81%E6%9D%BF%E6%B5%B7%E9%AE%AE%E4%BB%80%E7%87%B4%29.png?itok=L4OOU07Z"
+        }
+      ]
+    }
+  ]
+}

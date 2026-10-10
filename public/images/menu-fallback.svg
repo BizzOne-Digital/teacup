@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" role="img" aria-label="Menu item">
+  <defs>
+    <linearGradient id="g" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#3d5c38"/>
+      <stop offset="100%" style="stop-color:#2d422b"/>
+    </linearGradient>
+  </defs>
+  <rect width="400" height="300" fill="url(#g)"/>
+  <circle cx="200" cy="120" r="48" fill="#ffffff22"/>
+  <path d="M160 200h80l-12-36h-56l-12 36z" fill="#ffffff33"/>
+  <text x="200" y="250" text-anchor="middle" fill="#ffffffcc" font-family="system-ui,sans-serif" font-size="18">Tea Cup Cafe</text>
+</svg>
