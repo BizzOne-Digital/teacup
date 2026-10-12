@@ -1,16 +1,14 @@
 import { NextResponse } from "next/server";
-import Stripe from "stripe";
-import { connectDB } from "@/lib/mongodb";
-import { Order } from "@/lib/models/Order";
+import type Stripe from "stripe";
+import { getStripe } from "@/lib/stripe";
+import { markOrderPaid } from "@/lib/mark-order-paid";
 
 export async function POST(request: Request) {
-  const stripeKey = process.env.STRIPE_SECRET_KEY;
-  const webhookSecret = process.env.STRIPE_WEBHOOK_SECRET;
-  if (!stripeKey || !webhookSecret) {
+  const webhookSecret = process.env.STRIPE_WEBHOOK_SECRET?.trim();
+  const stripe = getStripe();
+  if (!stripe || !webhookSecret) {
     return NextResponse.json({ error: "Stripe not configured" }, { status: 500 });
   }
-
-  const stripe = new Stripe(stripeKey);
   const body = await request.text();
   const sig = request.headers.get("stripe-signature");
   if (!sig) {
@@ -29,12 +27,7 @@ export async function POST(request: Request) {
     const session = event.data.object as Stripe.Checkout.Session;
     const orderId = session.metadata?.orderId;
     if (orderId) {
-      await connectDB();
-      await Order.findByIdAndUpdate(orderId, {
-        status: "paid",
-        paidAt: new Date(),
-        stripeSessionId: session.id,
-      });
+      await markOrderPaid(orderId, session.id);
     }
   }
 

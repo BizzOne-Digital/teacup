@@ -31,6 +31,8 @@ export async function GET(request: Request) {
         id: o._id.toString(),
         orderNumber: o.orderNumber,
         status: o.status,
+        subtotal: o.subtotal,
+        tax: o.tax,
         total: o.total,
         customer: o.customer,
         items: o.items,

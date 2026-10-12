@@ -39,14 +39,31 @@ export async function isAdminAuthenticated(): Promise<boolean> {
   return token === signToken(password);
 }
 
-export function verifyAdminCredentials(
+export async function verifyAdminCredentials(
   email: string,
   password: string
-): boolean {
+): Promise<boolean> {
+  const normalized = email.trim().toLowerCase();
   const expectedEmail = process.env.ADMIN_EMAIL?.trim().toLowerCase();
   const expectedPassword = process.env.ADMIN_PASSWORD;
-  if (!expectedEmail || !expectedPassword) return false;
-  return (
-    email.trim().toLowerCase() === expectedEmail && password === expectedPassword
-  );
+  if (
+    expectedEmail &&
+    expectedPassword &&
+    normalized === expectedEmail &&
+    password === expectedPassword
+  ) {
+    return true;
+  }
+
+  try {
+    const { connectDB } = await import("./mongodb");
+    const { Admin } = await import("./models/Admin");
+    const { verifyPassword } = await import("./password-hash");
+    await connectDB();
+    const admin = await Admin.findOne({ email: normalized }).lean();
+    if (!admin?.passwordHash) return false;
+    return verifyPassword(password, admin.passwordHash);
+  } catch {
+    return false;
+  }
 }

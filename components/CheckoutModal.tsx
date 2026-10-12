@@ -1,7 +1,8 @@
 "use client";
 
-import { useState } from "react";
+import { useMemo, useState } from "react";
 import { useCart } from "@/store/cart";
+import { calcTotals, TAX_RATE } from "@/lib/order-utils";
 
 type Props = {
   open: boolean;
@@ -18,6 +19,9 @@ export function CheckoutModal({ open, onClose, onSuccess }: Props) {
   const [notes, setNotes] = useState("");
   const [loading, setLoading] = useState(false);
   const [error, setError] = useState("");
+
+  const totals = useMemo(() => calcTotals(lines), [lines]);
+  const taxLabel = `${Math.round(TAX_RATE * 100)}%`;
 
   if (!open) return null;
 
@@ -88,7 +92,7 @@ export function CheckoutModal({ open, onClose, onSuccess }: Props) {
       >
         <div className="flex items-center justify-between">
           <h2 id="checkout-title" className="text-xl font-semibold text-[#2d422b]">
-            Checkout
+            Your details
           </h2>
           <button
             type="button"
@@ -99,6 +103,9 @@ export function CheckoutModal({ open, onClose, onSuccess }: Props) {
             ✕
           </button>
         </div>
+        <p className="mt-1 text-sm text-stone-600">
+          Enter your contact info, then continue to secure card payment on Stripe.
+        </p>
         <form className="mt-4 space-y-3" onSubmit={handleSubmit}>
           <input
             required
@@ -130,6 +137,20 @@ export function CheckoutModal({ open, onClose, onSuccess }: Props) {
             className="w-full rounded-lg border border-stone-200 px-3 py-2 text-sm"
             rows={2}
           />
+          <div className="rounded-xl bg-stone-50 p-3 text-sm">
+            <div className="flex justify-between text-stone-600">
+              <span>Subtotal</span>
+              <span>${totals.subtotal.toFixed(2)}</span>
+            </div>
+            <div className="mt-1 flex justify-between text-stone-600">
+              <span>Tax ({taxLabel})</span>
+              <span>${totals.tax.toFixed(2)}</span>
+            </div>
+            <div className="mt-2 flex justify-between font-semibold text-[#2d422b]">
+              <span>Total due</span>
+              <span>${totals.total.toFixed(2)}</span>
+            </div>
+          </div>
           {error ? (
             <p className="text-sm text-red-600">{error}</p>
           ) : null}
@@ -138,11 +159,11 @@ export function CheckoutModal({ open, onClose, onSuccess }: Props) {
             disabled={loading || lines.length === 0}
             className="w-full rounded-full bg-[#2d422b] py-3 text-sm font-semibold text-white disabled:opacity-50"
           >
-            {loading ? "Processing…" : "Pay & place order"}
+            {loading ? "Please wait…" : "Pay now"}
           </button>
           <p className="text-center text-xs text-stone-500">
-            Card payments use Stripe when configured; otherwise demo payment
-            marks the order as paid.
+            You will be redirected to Stripe to enter card details. After payment
+            you return here with a confirmation message.
           </p>
         </form>
       </div>

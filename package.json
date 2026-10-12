@@ -9,7 +9,8 @@
     "lint": "eslint",
     "scrape-menu": "node scripts/scrape-menu.mjs",
     "fix-menu-images": "node scripts/fix-menu-images.mjs",
-    "seed": "node scripts/seed.mjs"
+    "seed": "node scripts/seed.mjs",
+    "test:stripe-metadata": "node scripts/test-stripe-metadata.mjs"
   },
   "dependencies": {
     "mongoose": "^9.11.1",

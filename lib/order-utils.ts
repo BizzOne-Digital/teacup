@@ -1,4 +1,5 @@
-const TAX_RATE = 0.0875;
+/** Sales tax rate (13%) applied at checkout and on Stripe payment. */
+export const TAX_RATE = 0.13;
 
 export function calcTotals(items: { price: number; quantity: number }[]) {
   const subtotal = items.reduce((s, i) => s + i.price * i.quantity, 0);

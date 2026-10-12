@@ -7,6 +7,8 @@ type OrderRow = {
   id: string;
   orderNumber: string;
   status: string;
+  subtotal: number;
+  tax: number;
   total: number;
   customer: { name: string; email: string; phone: string; notes?: string };
   items: { name: string; quantity: number; price: number }[];
@@ -193,6 +195,9 @@ export default function AdminPage() {
                   </span>
                   <span className="font-medium">${o.total.toFixed(2)}</span>
                 </div>
+                <p className="mt-1 text-xs text-stone-500">
+                  Subtotal ${o.subtotal?.toFixed(2) ?? "—"} · Tax ${o.tax?.toFixed(2) ?? "—"}
+                </p>
                 <p className="mt-2 text-sm text-stone-700">
                   {o.customer.name} · {o.customer.phone} · {o.customer.email}
                 </p>

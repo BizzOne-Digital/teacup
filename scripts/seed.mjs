@@ -4,8 +4,15 @@
  */
 import fs from "fs";
 import path from "path";
+import crypto from "crypto";
 import { fileURLToPath } from "url";
 import mongoose from "mongoose";
+
+function hashPassword(password) {
+  const salt = crypto.randomBytes(16).toString("hex");
+  const hash = crypto.scryptSync(password, salt, 64).toString("hex");
+  return `${salt}:${hash}`;
+}
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const root = path.join(__dirname, "..");
@@ -94,6 +101,33 @@ await StoreMenu.findOneAndUpdate(
 );
 
 await Order.syncIndexes();
+
+const AdminSchema = new mongoose.Schema(
+  {
+    email: { type: String, required: true, unique: true, lowercase: true },
+    passwordHash: { type: String, required: true },
+  },
+  { collection: "admins" }
+);
+const Admin = mongoose.models.Admin || mongoose.model("Admin", AdminSchema);
+
+const adminEmail = process.env.ADMIN_EMAIL?.trim().toLowerCase();
+const adminPassword = process.env.ADMIN_PASSWORD;
+if (adminEmail && adminPassword) {
+  await Admin.findOneAndUpdate(
+    { email: adminEmail },
+    {
+      email: adminEmail,
+      passwordHash: hashPassword(adminPassword),
+    },
+    { upsert: true, new: true }
+  );
+  console.log(`Admin OK — ${adminEmail} (password from ADMIN_PASSWORD in .env.local)`);
+} else {
+  console.warn(
+    "Skipped admin — set ADMIN_EMAIL and ADMIN_PASSWORD in .env.local, then run seed again."
+  );
+}
 
 console.log(
   `Seed OK — menu: ${menu.categories.length} categories, ${itemCount} items`

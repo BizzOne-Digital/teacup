@@ -1,6 +1,6 @@
 "use client";
 
-import { useEffect, useMemo, useState } from "react";
+import { useEffect, useMemo, useRef, useState } from "react";
 import { useRouter, useSearchParams } from "next/navigation";
 import type { MenuData } from "@/lib/types";
 import { Hero } from "./Hero";
@@ -21,21 +21,12 @@ export function StorePage({ menu }: Props) {
     menu.categories[0]?.id ?? ""
   );
   const [checkoutOpen, setCheckoutOpen] = useState(false);
-  const [dismissedSuccess, setDismissedSuccess] = useState(false);
-  const [paidToast, setPaidToast] = useState<string | null>(null);
+  const [banner, setBanner] = useState<string | null>(null);
   const searchParams = useSearchParams();
   const router = useRouter();
   const itemCount = useCart((s) => s.itemCount());
   const clearCart = useCart((s) => s.clear);
-
-  const checkoutSuccess = searchParams.get("checkout") === "success";
-  const orderFromQuery = searchParams.get("order");
-  const successMessage =
-    checkoutSuccess && !dismissedSuccess
-      ? orderFromQuery
-        ? `Thank you! Order ${orderFromQuery} is confirmed.`
-        : "Thank you! Your order is confirmed."
-      : null;
+  const checkoutHandledRef = useRef(false);
 
   const activeCategory = useMemo(
     () =>
@@ -45,10 +36,47 @@ export function StorePage({ menu }: Props) {
   );
 
   useEffect(() => {
-    if (!checkoutSuccess) return;
-    clearCart();
-    router.replace("/", { scroll: false });
-  }, [checkoutSuccess, clearCart, router]);
+    if (checkoutHandledRef.current) return;
+    const checkout = searchParams.get("checkout");
+    if (!checkout) return;
+
+    checkoutHandledRef.current = true;
+
+    if (checkout === "cancelled") {
+      setBanner("Checkout cancelled. Your cart is still here — try again when ready.");
+      router.replace("/", { scroll: false });
+      return;
+    }
+
+    if (checkout !== "success") return;
+
+    const sessionId = searchParams.get("session_id");
+
+    (async () => {
+      let message =
+        "Thank you! Your payment was successful and your order is confirmed.";
+
+      if (sessionId) {
+        try {
+          const res = await fetch("/api/checkout/complete", {
+            method: "POST",
+            headers: { "Content-Type": "application/json" },
+            body: JSON.stringify({ sessionId }),
+          });
+          const data = await res.json();
+          if (res.ok && data.orderNumber) {
+            message = `Thank you! Payment received. Order ${data.orderNumber} is confirmed.`;
+          }
+        } catch {
+          /* keep generic message */
+        }
+      }
+
+      clearCart();
+      setBanner(message);
+      router.replace("/", { scroll: false });
+    })();
+  }, [searchParams, clearCart, router]);
 
   return (
     <div className="min-h-screen w-full min-w-0 overflow-x-hidden bg-stone-50 pb-52 sm:pb-48 md:pb-32">
@@ -78,22 +106,22 @@ export function StorePage({ menu }: Props) {
         open={checkoutOpen}
         onClose={() => setCheckoutOpen(false)}
         onSuccess={(orderNumber) =>
-          setPaidToast(`Thank you! Order ${orderNumber} is paid.`)
+          setBanner(
+            `Thank you! Payment received. Order ${orderNumber} is confirmed.`
+          )
         }
       />
-      {(successMessage || paidToast) ? (
+      {banner ? (
         <div
           className="fixed left-3 right-3 top-4 z-50 mx-auto max-w-md rounded-2xl bg-[#2d422b] px-4 py-3 text-center text-sm text-white shadow-lg sm:left-1/2 sm:right-auto sm:w-auto sm:-translate-x-1/2 sm:rounded-full sm:px-6"
           role="status"
         >
-          {successMessage ?? paidToast}
+          {banner}
           <button
             type="button"
             className="ml-3 opacity-80"
-            onClick={() => {
-              setDismissedSuccess(true);
-              setPaidToast(null);
-            }}
+            onClick={() => setBanner(null)}
+            aria-label="Dismiss"
           >
             ✕
           </button>

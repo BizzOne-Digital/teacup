@@ -7,7 +7,7 @@ Design is inspired by [ONO Poké Bar](https://onopokebar.onlineorders.store/). M
 ## Setup
 
 1. Edit `.env.local`: set `MONGODB_URI`, and admin `ADMIN_EMAIL` / `ADMIN_PASSWORD` (defaults: `admin@teacupcafe.com` / `admin@123`).
-2. Optional: add Stripe keys for card checkout; without Stripe, checkout uses **demo pay** (marks order paid in DB).
+2. **Stripe Checkout** (recommended): set `STRIPE_SECRET_KEY` in `.env.local`. Flow: cart → Checkout → enter details → **Pay now** → Stripe hosted page → return home with thank-you message. Orders are stored as `pending`, then **`paid`** after payment (13% tax included in total). Without Stripe keys, **demo pay** marks the order paid locally.
 3. Place your notification audio at **`public/notification.mp3`** (admin plays it when a new paid order appears).
 4. Install and run:
 
@@ -24,9 +24,21 @@ Open [http://localhost:3000](http://localhost:3000) — admin at [http://localho
 npm run scrape-menu
 ```
 
-## Stripe webhook (production)
+## Stripe setup
 
-Point Stripe webhook to `POST /api/webhooks/stripe` with event `checkout.session.completed`.
+1. [Stripe Dashboard](https://dashboard.stripe.com/test/apikeys) → copy **Secret key** → `STRIPE_SECRET_KEY`.
+2. Set `NEXT_PUBLIC_APP_URL` to your site URL (e.g. `http://localhost:3000` for dev).
+3. **Local webhooks** (optional backup; return URL also marks orders paid):
+
+```bash
+stripe listen --forward-to localhost:3000/api/webhooks/stripe
+```
+
+Copy the webhook signing secret into `STRIPE_WEBHOOK_SECRET`.
+
+4. **Production:** add endpoint `https://your-domain.com/api/webhooks/stripe` with event `checkout.session.completed`.
+
+Test card: `4242 4242 4242 4242`, any future expiry, any CVC.
 
 ## Production
 

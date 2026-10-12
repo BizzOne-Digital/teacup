@@ -7,7 +7,7 @@ import {
 
 export async function POST(request: Request) {
   const { email, password } = await request.json();
-  if (!verifyAdminCredentials(email ?? "", password ?? "")) {
+  if (!(await verifyAdminCredentials(email ?? "", password ?? ""))) {
     return NextResponse.json({ error: "Invalid email or password" }, { status: 401 });
   }
   const ok = await setAdminSession();

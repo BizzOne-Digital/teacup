@@ -1,6 +1,7 @@
 "use client";
 
 import { useCart } from "@/store/cart";
+import { TAX_RATE, calcTotals } from "@/lib/order-utils";
 
 type Props = {
   onCheckout: () => void;
@@ -10,10 +11,9 @@ export function CartPanel({ onCheckout }: Props) {
   const lines = useCart((s) => s.lines);
   const setQuantity = useCart((s) => s.setQuantity);
   const removeItem = useCart((s) => s.removeItem);
-  const subtotal = useCart((s) => s.subtotal());
-
-  const tax = Math.round(subtotal * 0.0875 * 100) / 100;
-  const total = Math.round((subtotal + tax) * 100) / 100;
+  const linesForTotals = useCart((s) => s.lines);
+  const { subtotal, tax, total } = calcTotals(linesForTotals);
+  const taxLabel = `${Math.round(TAX_RATE * 100)}%`;
 
   return (
     <aside
@@ -80,7 +80,7 @@ export function CartPanel({ onCheckout }: Props) {
           <span>${subtotal.toFixed(2)}</span>
         </div>
         <div className="flex justify-between text-sm text-stone-600">
-          <span>Tax (8.75%)</span>
+          <span>Tax ({taxLabel})</span>
           <span>${tax.toFixed(2)}</span>
         </div>
         <div className="mt-1 flex justify-between font-semibold">
